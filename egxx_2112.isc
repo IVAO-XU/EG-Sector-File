@@ -8,31 +8,45 @@ N051.28.39.000
 W000.27.41.000
 60
 37.4
-0
-egxx;egxx\egtt;egxx\egpx;egxx\eg-military;eg-nav;
-
-[ATC]
-F;egxx-atc.atc
+-0.1
+egxx;egxx\egtt;egxx\egpx;egxx\eg-military;egxx\eg-nav;
 
 [AIRPORT]
+F;egxx-apt.apt
+F;egtt-military-apt.apt
 
 [RUNWAY]
+F;egxx-rwy.rwy
 
 [FIXES]
+F;egxx-fix.fix
+F;egxx-foreign-fix.fix
+F;egxx-military-fix.fix
 
 [NDB]
+F;egxx-ndb.ndb
+F;egxx-foreign.ndb
 
 [VOR]
+F;egxx-vor.vor
+F;egxx-foreign-vor.vor
+F;egxx-military-tacan.vor
 
 [LOW AIRWAY]
+F;egxx-low-airways.lairway
 
 [HIGH AIRWAY]
+F;egxx-high-airways.hairway
 
 [ARTCC]
+//ACC button aka airspace
 
 [ARTCC HIGH]
+//HS button aka high sectors
+F;egxx-high-sectors.artcc
 
 [ARTCC LOW]
+//LS button aka low sectors
 
 [GEO]
 
