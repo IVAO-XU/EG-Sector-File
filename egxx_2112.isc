@@ -19,24 +19,24 @@ F;egtt-military-apt.apt
 F;egxx-rwy.rwy
 
 [FIXES]
-F;egxx-fix.fix
-F;egxx-foreign-fix.fix
-F;egxx-military-fix.fix
+F;eg-nav\egxx-fix.fix
+F;eg-nav\egxx-foreign-fix.fix
+F;eg-nav\egxx-military-fix.fix
 
 [NDB]
 F;egxx-ndb.ndb
 F;egxx-foreign.ndb
 
 [VOR]
-F;egxx-vor.vor
-F;egxx-foreign-vor.vor
-F;egxx-military-tacan.vor
+F;eg-nav\egxx-vor.vor
+F;eg-nav\egxx-foreign-vor.vor
+F;eg-nav\egxx-military-tacan.vor
 
 [LOW AIRWAY]
-F;egxx-low-airways.lairway
+F;eg-nav\egxx-low-airways.lairway
 
 [HIGH AIRWAY]
-F;egxx-high-airways.hairway
+F;eg-nav\egxx-high-airways.hairway
 
 [ARTCC]
 //ACC button aka airspace
