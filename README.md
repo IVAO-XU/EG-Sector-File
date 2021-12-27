@@ -8,4 +8,4 @@ https://wiki.ivao.aero/en/home/devops/manuals/SectorFile_Definition
 
 ## To Do
 
-1) Change coordinate formate to Decimal format
+1) Change coordinate format to Decimal format
