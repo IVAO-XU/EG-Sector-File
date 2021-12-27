@@ -9,10 +9,7 @@ W000.27.41.000
 60
 37.4
 0
-egxx;egxx\egtt;egxx\egpx;egxx\eg-military;eg-nav;
-
-[ATC]
-F;egxx-atc.atc
+egxx;egxx\egtt;egxx\egpx;egxx\eg-military;egxx\eg-nav;
 
 [AIRPORT]
 F;egxx-apt.apt
@@ -21,6 +18,8 @@ F;egxx-apt.apt
 F;egxx-rwy.rwy
 
 [FIXES]
+F;egxx-fix.fix
+F;egxx-foreign-fix.fix
 
 [NDB]
 
