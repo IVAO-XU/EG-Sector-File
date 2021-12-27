@@ -1,0 +1,42 @@
+// --------------------------------------------------------------------
+// - Aurora Sector File -----------------------------------------------
+// - London (EGTT) and Scottish (EGPX) FIRs ---------------------------
+// - Maintained By - Shaun Ellis (471730) -----------------------------
+// - Contributors - Craig Tyler (425236) & Ryan Moore (419127) --------
+// --------------------------------------------------------------------
+// - (C)2021 IVAO United Kingdom and Ireland Division xu.ivao.aero ----
+// - Usage only allowed on the IVAO Network ---------------------------
+// --------------------------------------------------------------------
+//
+EGLL;09L;CPT4K;CPT;CPT;
+EGLL;09L;MID3K;MID;MID;
+EGLL;09L;BPK5K;BPK;BPK;
+EGLL;09L;ULTIB1K;ULTIB;ULTIB;
+EGLL;09L;DET1K;DET;DET;
+EGLL;09L;GASGU2K;GASGU;GASGU;
+EGLL;09L;MAY2K;MAY;MAY;
+EGLL;09L;MODMI1K;MODMI;MODMI;
+EGLL;09R;CPT5J;CPT;CPT;
+EGLL;09R;MID3J;MID;MID;
+EGLL;09R;BPK6J;BPK;BPK;
+EGLL;09R;ULTIB1J;ULTIB;ULTIB;
+EGLL;09R;DET1J;DET;DET;
+EGLL;09R;GASGU2J;GASGU;GASGU;
+EGLL;09R;MAY2J;MAY;MAY;
+EGLL;09R;MODMI1J;MODMI;MODMI;
+EGLL;27L;CPT3G;CPT;CPT;
+EGLL;27L;MID3G;MID;MID;
+EGLL;27L;BPK7G;BPK;BPK;
+EGLL;27L;UMLAT1G;UMLAT;UMLAT;
+EGLL;27L;DET2G;DET;DET;
+EGLL;27L;GOGSI2G;GOGSI;GOGSI;
+EGLL;27L;MAY2G;MAY;MAY;
+EGLL;27L;MAXIT1G;MAXIT;MAXIT;
+EGLL;27R;CPT3F;CPT;CPT;
+EGLL;27R;MID4F;MID;MID;
+EGLL;27R;BPK7F;BPK;BPK;
+EGLL;27R;UMLAT1F;UMLAT;UMLAT;
+EGLL;27R;DET2F;DET;DET;
+EGLL;27R;GOGSI2F;GOGSI;GOGSI;
+EGLL;27R;MAY3F;MAY;MAY;
+EGLL;27R;MAXIT1F;MAXIT;MAXIT;
