@@ -13,6 +13,7 @@ egxx;egxx\egtt;egxx\egpx;egxx\eg-military;egxx\eg-nav;
 
 [AIRPORT]
 F;egxx-apt.apt
+F;egtt-military-apt.apt
 
 [RUNWAY]
 F;egxx-rwy.rwy
@@ -23,8 +24,13 @@ F;egxx-foreign-fix.fix
 F;egxx-military-fix.fix
 
 [NDB]
+F;egxx-ndb.ndb
+F;egxx-foreign.ndb
 
 [VOR]
+F;egxx-vor.vor
+F;egxx-foreign-vor.vor
+F;egxx-military-tacan.vor
 
 [LOW AIRWAY]
 
