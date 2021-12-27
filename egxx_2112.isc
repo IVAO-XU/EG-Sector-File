@@ -47,6 +47,7 @@ F;egxx-high-sectors.artcc
 
 [ARTCC LOW]
 //LS button aka low sectors
+F;egxx-low-sectors.artcc
 
 [GEO]
 
