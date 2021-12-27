@@ -39,10 +39,14 @@ F;egxx-low-airways.lairway
 F;egxx-high-airways.hairway
 
 [ARTCC]
+//ACC button aka airspace
 
 [ARTCC HIGH]
+//HS button aka high sectors
+F;egxx-high-sectors.artcc
 
 [ARTCC LOW]
+//LS button aka low sectors
 
 [GEO]
 
