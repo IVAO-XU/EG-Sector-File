@@ -12,11 +12,11 @@ W000.27.41.000
 egxx;egxx\egtt;egxx\egpx;egxx\eg-military;egxx\eg-nav;
 
 [AIRPORT]
-F;egxx-apt.apt
-F;egtt-military-apt.apt
+F;eg-nav\egxx-apt.apt
+F;eg-nav\egtt-military-apt.apt
 
 [RUNWAY]
-F;egxx-rwy.rwy
+F;eg-nav\egxx-rwy.rwy
 
 [FIXES]
 F;eg-nav\egxx-fix.fix
@@ -24,8 +24,8 @@ F;eg-nav\egxx-foreign-fix.fix
 F;eg-nav\egxx-military-fix.fix
 
 [NDB]
-F;egxx-ndb.ndb
-F;egxx-foreign.ndb
+F;eg-nav\egxx-ndb.ndb
+F;eg-nav\egxx-foreign.ndb
 
 [VOR]
 F;eg-nav\egxx-vor.vor
@@ -43,11 +43,11 @@ F;eg-nav\egxx-high-airways.hairway
 
 [ARTCC HIGH]
 //HS button aka high sectors
-F;egxx-high-sectors.artcc
+F;eg-nav\egxx-high-sectors.artcc
 
 [ARTCC LOW]
 //LS button aka low sectors
-F;egxx-low-sectors.artcc
+F;eg-nav\egxx-low-sectors.artcc
 
 [GEO]
 
