@@ -1,0 +1,39 @@
+//////////////////////////////////////////
+//        IVAO XU COMMUNITY Sector      //
+// Developed by the IVAO XU community   //
+//////////////////////////////////////////
+
+[INFO]
+N051.28.39.000
+W000.27.41.000
+60
+37.4
+0
+egxx-new
+
+[ATC]
+F;egxx-atc.atc
+
+[AIRPORT]
+
+[RUNWAY]
+
+[FIXES]
+
+[NDB]
+
+[VOR]
+
+[LOW AIRWAY]
+
+[HIGH AIRWAY]
+
+[ARTCC]
+
+[ARTCC HIGH]
+
+[ARTCC LOW]
+
+[GEO]
+
+[FILLCOLOR]
