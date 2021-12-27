@@ -8,7 +8,7 @@ N051.28.39.000
 W000.27.41.000
 60
 37.4
-0
+-0.1
 egxx;egxx\egtt;egxx\egpx;egxx\eg-military;egxx\eg-nav;
 
 [AIRPORT]
@@ -33,6 +33,7 @@ F;egxx-foreign-vor.vor
 F;egxx-military-tacan.vor
 
 [LOW AIRWAY]
+F;egxx-low-airways.lairway
 
 [HIGH AIRWAY]
 
