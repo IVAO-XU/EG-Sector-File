@@ -1,0 +1,24 @@
+// --------------------------------------------------------------------
+// - Aurora Sector File -----------------------------------------------
+// - London (EGTT) and Scottish (EGPX) FIRs ---------------------------
+// - Maintained By - Shaun Ellis (471730) -----------------------------
+// - Contributors - Craig Tyler (425236) & Ryan Moore (419127) --------
+// --------------------------------------------------------------------
+// - (C)2021 IVAO United Kingdom and Ireland Division xu.ivao.aero ----
+// - Usage only allowed on the IVAO Network ---------------------------
+// --------------------------------------------------------------------
+//
+EGBB;15;DTY2Y;DTY;DTY;
+EGBB;15;TNT1K;TNT;TNT;
+EGBB;15;TNT4G;TNT;TNT;
+EGBB;15;WCO2Y;WCO;WCO;
+EGBB;15;LUVUM1L;LUVUM;LUVUM;
+EGBB;15;COWLY2Y;COWLY;COWLY;
+EGBB;15;CPT2Y;CPT;CPT;
+EGBB;15;LUXTO;LUXTO;LUXTO;
+EGBB;15;MOSUN;MOSUN;MOSUN;
+EGBB;33;DTY4F;DTY;DTY;
+EGBB;33;LUVUM1M;LUVUM;LUVUM;
+EGBB;33;UNGAP1M;UNGAP;UNGAP;
+EGBB;33;ADMEX1M;ADMEX;ADMEX;
+EGBB;33;UMLUX1M;UMLUX;UMLUX;
