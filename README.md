@@ -15,6 +15,7 @@ https://wiki.ivao.aero/en/home/devops/manuals/SectorFile_Definition
 
 ## To Do
 In no particular order...
+
 [x] <strike>Find lower resolution GEO boundary</strike>
 [ ] [Change coordinate format to Decimal format][i1]
 [ ] Add airway structures
