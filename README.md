@@ -16,6 +16,6 @@ https://wiki.ivao.aero/en/home/devops/manuals/SectorFile_Definition
 5) [ ] Add gate size information to gates file (https://wiki.ivao.aero/en/home/devops/manuals/SectorFile_Definition#gates-gates-information)
 
 ## Features
-
+:hourglass: Faster loading time thanks to a less intricate coastline. (Reduced from 250,000 lines to 16,000)
 
 [i1]: https://github.com/IVAO-XU/EG-Sector-File/issues/1
