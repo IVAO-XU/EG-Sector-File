@@ -6,8 +6,10 @@ https://wiki.ivao.aero/en/home/devops/manuals/SectorFile_Definition
 ## Features
 :hourglass: Faster loading time thanks to a less intricate coastline. (Reduced from 250,000 lines to 16,000)
 
+## How to Contribute
+
 ## To Do
-0) [x] ~Find lower resolution GEO boundary~
+0) [x] <strike>Find lower resolution GEO boundary</strike>
 1) [ ] [Change coordinate format to Decimal format][i1]
 2) [ ] [Use poly fill/line to show airway/CAS structure for airspace when an area unit is online][i2]
 3) [ ] [Add poly fill/line to show when external area units are online][i3]
