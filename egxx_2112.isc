@@ -1,6 +1,6 @@
 //////////////////////////////////////////
-//        IVAO XU COMMUNITY Sector      //
-// Developed by the IVAO XU community   //
+///       IVAO XU COMMUNITY Sector     ///
+/// Developed by the IVAO XU community ///
 //////////////////////////////////////////
 
 [INFO]
@@ -9,12 +9,16 @@ W000.27.41.000
 60
 37.4
 -0.1
-egxx;egxx\egtt;egxx\egpx;egxx\eg-military;egxx\eg-nav;
+egxx
 
 [DEFINE]
 CLRTRA;#003d1240;
 CLRARA;#003d1240;
 CLRRVC;#003d1240;
+
+[ATC]
+F;egpx\egpx-atc.atc
+F;egtt\egtt-atc.atc
 
 [AIRPORT]
 F;eg-nav\egxx-apt.apt
@@ -23,8 +27,6 @@ F;eg-nav\egtt-military-apt.apt
 [RUNWAY]
 F;eg-nav\egxx-rwy.rwy
 
-[TAXIWAY]
-
 [GATES]
 F;eg-nav\egxx-gates.gts
 
@@ -32,6 +34,9 @@ F;eg-nav\egxx-gates.gts
 F;eg-nav\egxx-fix.fix
 F;eg-nav\egxx-foreign-fix.fix
 F;eg-nav\egxx-military-fix.fix
+
+[VFRFIX]
+F;egxx\egtt\visual\EGCC.vfi
 
 [NDB]
 F;eg-nav\egxx-ndb.ndb
@@ -48,9 +53,6 @@ F;eg-nav\egxx-low-airways.lairway
 [HIGH AIRWAY]
 F;eg-nav\egxx-high-airways.hairway
 
-[AIRSPACE]
-//ACC button aka airspace
-
 [ARTCC HIGH]
 //HS button aka high sectors
 F;eg-nav\egxx-high-sectors.artcc
@@ -58,17 +60,6 @@ F;eg-nav\egxx-high-sectors.artcc
 [ARTCC LOW]
 //LS button aka low sectors
 F;eg-nav\egxx-low-sectors.artcc
-
-[SID]
-
-[STAR]
-
-[VFRFIX]
-F;egtt\vfr\EGCC.vfi
-
-[VFRROUTE]
-
-[MVA]
 
 [GEO]
 F;eg-nav\egxx-coastline.geo
@@ -78,5 +69,3 @@ F;eg-nav\egxx-restricted-areas.restrict
 F;eg-nav\egxx-military-training-areas.geo
 F;eg-nav\egxx-military-refuelling-areas.geo
 F;eg-nav\egxx-military-radar-corridors.geo
-
-[FILLCOLOR]
