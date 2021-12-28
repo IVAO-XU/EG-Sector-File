@@ -7,7 +7,9 @@ https://wiki.ivao.aero/en/home/devops/manuals/SectorFile_Definition
 + :hourglass: **Faster loading time thanks to a less intricate coastline.**  
 *Reduced from 250,000 lines to 16,000 line of codes, a 93% decrease with no loss of quality.*
 + :world_map: **Airways and end point fixed**  
-*Removing those random waypoints that displayed when viewing the route*
+*Removing those random waypoints that displayed when viewing a pilot's route.*
++ :door: **Complete SIDs/ STARs**  
+*Detailed SIDs and STARs for all airports comprehensively drawn.*
 
 ## How to Contribute
 
