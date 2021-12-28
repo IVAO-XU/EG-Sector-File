@@ -4,9 +4,10 @@
 https://wiki.ivao.aero/en/home/devops/manuals/SectorFile_Definition
 
 ## Features
-0) :hourglass: Faster loading time thanks to a less intricate coastline. 
-⋅⋅⋅(Reduced from 250,000 lines to 16,000 lines, a 93% decrease in code for the coastlinewith no loss of quality.)⋅⋅
-:world_map:
++ :hourglass: **Faster loading time thanks to a less intricate coastline.**  
+*Reduced from 250,000 lines to 16,000 line of codes, a 93% decrease with no loss of quality.*
++ :world_map: **Airways and end point fixed**  
+*Removing those random waypoints that displayed when viewing the route*
 
 ## How to Contribute
 
