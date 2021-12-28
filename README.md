@@ -16,16 +16,16 @@ https://wiki.ivao.aero/en/home/devops/manuals/SectorFile_Definition
 ## To Do
 In no particular order...
 
-[x] <strike>Find lower resolution GEO boundary</strike>
-[ ] [Change coordinate format to Decimal format][i1]
-[ ] Add airway structures
-[ ] [Use poly fill/line to show airway/CAS structure for airspace when an area unit is online][i2]
-[ ] [Add poly fill/line to show when external area units are online][i3]
-[ ] [Fix ATC high/low sector boundaries to match up perfectly][i4]
-[ ] [Add gate size information to gates file][i5] (https://wiki.ivao.aero/en/home/devops/manuals/SectorFile_Definition#gates-gates-information)
-[ ] [High and low airways are missing points outside the UK FIR][i6]
-[ ] Add VFR reporting points on a per-airport basis
-[ ] Add bases of CAS, MRVA altitudes, etc. on a per airport basis
+1) [x] <strike>Find lower resolution GEO boundary</strike>
+2) [ ] [Change coordinate format to Decimal format][i1]
+3) [ ] Add airway structures
+4) [ ] [Use poly fill/line to show airway/CAS structure for airspace when an area unit is online][i2]
+5) [ ] [Add poly fill/line to show when external area units are online][i3]
+6) [ ] [Fix ATC high/low sector boundaries to match up perfectly][i4]
+7) [ ] [Add gate size information to gates file][i5] (https://wiki.ivao.aero/en/home/devops/manuals/SectorFile_Definition#gates-gates-information)
+8) [ ] [High and low airways are missing points outside the UK FIR][i6]
+9) [ ] Add VFR reporting points on a per-airport basis
+10) [ ] Add bases of CAS, MRVA altitudes, etc. on a per airport basis
 
 
 [i1]: https://github.com/IVAO-XU/EG-Sector-File/issues/1
