@@ -1,52 +1,47 @@
-// --------------------------------------------------------------------
-// - Aurora Sector File -----------------------------------------------
-// - London (EGTT) and Scottish (EGPX) FIRs ---------------------------
-// - Maintained By - Shaun Ellis (471730) -----------------------------
-// - Contributors - Craig Tyler (425236) & Ryan Moore (419127) --------
-// --------------------------------------------------------------------
-// - (C)2021 IVAO United Kingdom and Ireland Division xu.ivao.aero ----
-// - Usage only allowed on the IVAO Network ---------------------------
-// --------------------------------------------------------------------
-//
-EGGD;09:27;BRI1A;RETSI;RETSI;
-RETSI;RETSI;
-N052.06.53.000;W002.54.33.000;AMRAL/FL160;
-N051.56.55.000;W002.55.22.000;RILES/FL160;
-DOBEM;DOBEM;
-INGUR;INGUR;
-BRI;BRI;
-
-EGGD;09:27;BRI1B;STU;STU;
-STU;STU;
-AMMAN;AMMAN;
-BCN;BCN;
-BRI;BRI;
-
-EGGD;09:27;BRI1C;CPT;CPT;
-CPT;CPT;
-POMAX;POMAX;
-BRI;BRI;
-
-EGGD;09:27;BRI2D;BHD;BHD;
-BHD;BHD;
-TINAN;TINAN;
-TIVER;TIVER;
-EXMOR;EXMOR;
-BRI;BRI;
-
-EGGD;09:27;BRI1E;TALGA;TALGA;
-TALGA;TALGA;
-BCN;BCN;
-BRI;BRI;
+//////////////////////////////////////////
+///       IVAO XU COMMUNITY Sector     ///
+/// Developed by the IVAO XU community ///
+//////////////////////////////////////////
 
 EGGD;09;ADVED1A;EXMOR;EXMOR;
 EXMOR;EXMOR;
-ADVED;ADVED;
+ADVED;ADVED;3500;
+
+EGGD;09:27;AMRAL1B;AMRAL;AMRAL;
+RETSI;RETSI;
+AMRAL;AMRAL;FL160;
+RILES;RILES;FL150;
+DOBEM;DOBEM;
+INGUR;INGUR;
+BRI;BRI;FL70;
 
 EGGD;27;BAXUN1A;EXMOR;EXMOR;
 EXMOR;EXMOR;
 ROTLU;ROTLU;
-BAXUN;BAXUN;
+BAXUN;BAXUN;4000;
+
+EGGD;09:27;BRI1C;CPT;CPT;
+CPT;CPT;FL220;
+POMAX;POMAX;
+BRI;BRI;FL70;
+
+EGGD;09:27;DAWLY1B;DAWLY;DAWLY;
+DAWLY;DAWLY;
+EXMOR;EXMOR;
+BRI;BRI;
+
+EGGD;09:27;FIFAH1H;FIFAH;FIFAH;
+FIFAH;FIFAH;FL170;
+AMMAN;AMMAN;
+BCN;BCN;
+BRI;BRI;FL70;
+
+EGGD;09:27;UMOLO1B;UMOLO;UMOLO;
+UMOLO;UMOLO;FL160;
+TALGA;TALGA;
+BCN;BCN;
+PEGZA;PEGZA;
+BRI;BRI;FL70;
 
 //HOLDS
 EGGD;09:27;BRI;BRI;BRI;2;

@@ -1,16 +1,41 @@
-// --------------------------------------------------------------------
-// - Aurora Sector File -----------------------------------------------
-// - London (EGTT) and Scottish (EGPX) FIRs ---------------------------
-// - Maintained By - Shaun Ellis (471730) -----------------------------
-// - Contributors - Craig Tyler (425236) & Ryan Moore (419127) --------
-// --------------------------------------------------------------------
-// - (C)2021 IVAO United Kingdom and Ireland Division xu.ivao.aero ----
-// - Usage only allowed on the IVAO Network ---------------------------
-// --------------------------------------------------------------------
-//
-EGGD;09;BCN1Z;BCN;BCN;
-EGGD;09;EXMOR1Z;EXMOR;EXMOR;
-EGGD;09;WOTAN1Z;WOTAN;WOTAN;
-EGGD;27;BCN1X;BCN;BCN;
-EGGD;27;EXMOR1X;EXMOR;EXMOR;
+//////////////////////////////////////////
+///       IVAO XU COMMUNITY Sector     ///
+/// Developed by the IVAO XU community ///
+//////////////////////////////////////////
+
 EGGD;27;BADIM1X;BADIM;BADIM;
+D268E;D268E;3000;
+HON60;HON60;3000;
+BADIM;BADIM;3000;
+
+EGGD;27;BCN1X;BCN;BCN;
+D268E;D268E;3000;
+D149T;D149T;4500;
+D149O;D149O;6000;
+D149J;D149J;6000;
+BCN;BCN;6000;
+
+EGGD;09;BCN1Z;BCN;BCN;
+D088E;D088E;3000;
+BCN30;BCN30;4500;
+D124O;D124O;6000;
+D124J;D124J;6000;
+BCN;BCN;6000;
+
+EGGD;27;EXMOR1X;EXMOR;EXMOR;
+D268E;D268E;3000;
+SOMOT;SOMOT;3500;
+D244P;D244P;5500;
+EXMOR;EXMOR;6000;
+
+EGGD;09;EXMOR1Z;EXMOR;EXMOR;
+D088E;D088E;3000;
+SOMOT;SOMOT;3500;
+D244P;D244P;5500;
+EXMOR;EXMOR;6000;
+
+EGGD;09;WOTAN1Z;WOTAN;WOTAN;
+D088E;D088E;3000;
+HON63;HON63;6000;
+HON58;HON58;6000;
+WOTAN;WOTAN;6000;
