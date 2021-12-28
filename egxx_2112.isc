@@ -11,6 +11,9 @@ W000.27.41.000
 -0.1
 egxx;egxx\egtt;egxx\egpx;egxx\eg-military;egxx\eg-nav;
 
+[DEFINE]
+CLRTRA;#003d1240;
+
 [AIRPORT]
 F;eg-nav\egxx-apt.apt
 F;eg-nav\egtt-military-apt.apt
@@ -67,6 +70,6 @@ F;eg-nav\egxx-low-sectors.artcc
 [GEO]
 F;eg-nav\egxx-coastline.geo
 F;eg-nav\egxx-danger-areas.danger
-F;eg-nav\egxx-military-training-areas.prohibit
+F;eg-nav\egxx-military-training-areas.geo
 
 [FILLCOLOR]
