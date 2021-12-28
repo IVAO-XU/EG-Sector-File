@@ -1,45 +1,38 @@
-// --------------------------------------------------------------------
-// - Aurora Sector File -----------------------------------------------
-// - London (EGTT) and Scottish (EGPX) FIRs ---------------------------
-// - Maintained By - Shaun Ellis (471730) -----------------------------
-// - Contributors - Craig Tyler (425236) & Ryan Moore (419127) --------
-// --------------------------------------------------------------------
-// - (C)2021 IVAO United Kingdom and Ireland Division xu.ivao.aero ----
-// - Usage only allowed on the IVAO Network ---------------------------
-// --------------------------------------------------------------------
-//
-EGFF;12:30;CDF1A;RETSI;RETSI;
-RETSI;RETSI;
-N052.06.53.000;W002.54.33.000;AMRAL/FL160;
-N051.56.55.000;W002.55.22.000;RILES/FL160;
+//////////////////////////////////////////
+///       IVAO XU COMMUNITY Sector     ///
+/// Developed by the IVAO XU community ///
+//////////////////////////////////////////
+
+EGFF;12:30;AMRAL1C;AMRAL;AMRAL;
+AMRAL;AMRAL;FL160;
+RILES;RILES;FL160;
 DOBEM;DOBEM;
 KUKIS;KUKIS;
-CDF;CDF;
-
-EGFF;12:30;CDF1B;STU;STU;
-STU;STU;
-AMMAN;AMMAN;
-BCN;BCN;
-CDF;CDF;
+CDF;CDF;FL70;
 
 EGFF;12:30;CDF1C;CPT;CPT;
-CPT;CPT;
+CPT;CPT;FL260;
 ABDAL;ABDAL;
 BRI;BRI;
-CDF;CDF;
+CDF;CDF;FL70;
 
-EGFF;12:30;CDF3D;BHD;BHD;
-BHD;BHD;
-TINAN;TINAN;
-TIVER;TIVER;
-BCN;BCN;
+EGFF;12:30;DAWLY1C;DAWLY;DAWLY;
+DAWLY;DAWLY;
+IZLAW;IZLAW;
 EXMOR;EXMOR;
-CDF;CDF;
+CDF;CDF;FL70;
 
-EGFF;12:30;CDF1E;TALGA;TALGA;
+EGFF;12:30;FIFAH1C;FIFAH;FIFAH;
+FIFAH;FIFAH;FL170;
+AMMAN;AMMAN;
+BCN;BCN;
+CDF;CDF;FL70;
+
+EGFF;12:30;UMOLO1C;UMOLO;UMOLO;
+UMOLO;UMOLO;FL160;
 TALGA;TALGA;
 BCN;BCN;
-CDF;CDF;
+CDF;CDF;FL70;
 
 //HOLDS
 EGFF;12:30;CDF;CDF;CDF;2;
