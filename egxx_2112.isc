@@ -14,10 +14,14 @@ egxx;egxx\egtt;egxx\egpx;egxx\eg-military;egxx\eg-nav;
 [AIRPORT]
 F;eg-nav\egxx-apt.apt
 F;eg-nav\egtt-military-apt.apt
-F;eg-nav\egxx-gates.gts
 
 [RUNWAY]
 F;eg-nav\egxx-rwy.rwy
+
+[TAXIWAY]
+
+[GATES]
+F;eg-nav\egxx-gates.gts
 
 [FIXES]
 F;eg-nav\egxx-fix.fix
@@ -39,7 +43,7 @@ F;eg-nav\egxx-low-airways.lairway
 [HIGH AIRWAY]
 F;eg-nav\egxx-high-airways.hairway
 
-[ARTCC]
+[AIRSPACE]
 //ACC button aka airspace
 
 [ARTCC HIGH]
@@ -49,6 +53,16 @@ F;eg-nav\egxx-high-sectors.artcc
 [ARTCC LOW]
 //LS button aka low sectors
 F;eg-nav\egxx-low-sectors.artcc
+
+[SID]
+
+[STAR]
+
+[VFRFIX]
+
+[VFRROUTE]
+
+[MVA]
 
 [GEO]
 F;eg-nav\egxx-coastline.geo
