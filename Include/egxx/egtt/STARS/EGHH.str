@@ -1,48 +1,50 @@
-// --------------------------------------------------------------------
-// - Aurora Sector File -----------------------------------------------
-// - London (EGTT) and Scottish (EGPX) FIRs ---------------------------
-// - Maintained By - Shaun Ellis (471730) -----------------------------
-// - Contributors - Craig Tyler (425236) & Ryan Moore (419127) --------
-// --------------------------------------------------------------------
-// - (C)2021 IVAO United Kingdom and Ireland Division xu.ivao.aero ----
-// - Usage only allowed on the IVAO Network ---------------------------
-// --------------------------------------------------------------------
-//
-EGHH;08:26;UMBUR2S;UMBUR;UMBUR;
-UMBUR;UMBUR;
-N051.18.18.170;W000.26.49.860;OCK/FL160;
-PEPIS;PEPIS;
-N050.57.18.900;W001.20.42.200;SAM/FL90;
-
-EGHH;08:26;COWLY1S;COWLY;COWLY;
-N051.36.58.000;W001.03.54.000;COWLY/FL80;
-PEPIS;PEPIS;
-N050.57.18.900;W001.20.42.200;SAM/FL90;
-
-EGHH;08:26;CPT1S;CPT;CPT;
-N051.29.29.660;W001.13.10.890;CPT/FL120;
-PEPIS;PEPIS;
-N050.57.18.900;W001.20.42.200;SAM/FL90;
+//////////////////////////////////////////
+///       IVAO XU COMMUNITY Sector     ///
+/// Developed by the IVAO XU community ///
+//////////////////////////////////////////
 
 EGHH;08:26;BUGUP1S;BUGUP;BUGUP;
-N051.52.37.170;W001.36.59.890;BUGUP/FL150;
-N051.41.39.050;W001.26.27.640;RISIN/FL110;
+BUGUP;BUGUP;FL150;
+RISIN;RISIN;FL110;
 NUBRI;NUBRI;
 PEPIS;PEPIS;
-N050.57.18.900;W001.20.42.200;SAM/FL90;
+SAM;SAM;FL90;
 
-EGHH;08:26;THRED1S;THRED;THRED;
-N050.29.55.000;W001.39.50.000;THRED/FL70;
-N050.39.58.000;W001.32.51.860;NEDUL/FL70;
+EGHH;08:26;COWLY1S;COWLY;COWLY;
+COWLY;COWLY;FL80;
+PEPIS;PEPIS;
+SAM;SAM;FL80;
+
+EGHH;08:26;CPT1S;CPT;CPT;
+CPT;CPT;FL120;
+PEPIS;PEPIS;
+SAM;SAM;FL90;
 
 EGHH;08:26;ELDAX1S;ELDAX;ELDAX;
-ELDAX;ELDAX;
+ELDAX;ELDAX;FL180;
 NOTGI;NOTGI;
 EVEXU;EVEXU;
-N050.43.58.450;W000.48.03.140;GIVUN/FL90;
-RUDMO;RUDMO;
-MIVLA;MIVLA;
-N050.57.18.900;W001.20.42.200;SAM/FL90;
+GIVUN;GIVUN;FL90;
+RUDMO;RUDMO;FL90;
+MIVLA;MIVLA;FL90;
+SAM;SAM;FL90;
+
+EGHH;08:26;THRED1S;THRED;THRED;
+THRED;THRED;FL70;
+NEDUL;NEDUL;FL70;
+
+EGHH;08:26;UMBUR2S;UMBUR;UMBUR;
+UMBUR;UMBUR;
+OCK;OCK;FL160;
+PEPIS;PEPIS;
+SAM;SAM;FL90;
+
+
+
+
+
+
+
 
 
 EGHH;08:26;SAM;SAM;SAM;2;
