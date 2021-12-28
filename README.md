@@ -8,6 +8,7 @@ https://wiki.ivao.aero/en/home/devops/manuals/SectorFile_Definition
 
 ## To Do
 
+0) [x] Find lower resolution GEO boundary
 1) [ ] Change coordinate format to Decimal format
 2) [ ] Use poly fill/line to show airway/CAS structure for airspace when an area unit is online
 3) [ ] Add poly fill/line to show when external area units are online
