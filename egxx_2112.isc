@@ -9,7 +9,7 @@ W000.27.41.000
 60
 37.4
 -0.1
-egxx;egxx\eg-military;egxx\eg-military\airfields;egxx\eg-military\taxiways;egxx\eg-nav;egxx\egpx;egxx\egpx\airfield-layouts;egxx\egpx\sids;egxx\egpx\stars;egxx\egpx\taxiways;egxx\egpx\visual;egxx\egtt;egxx\egtt\airfield-layouts;egxx\egtt\sids;egxx\egtt\stars;egxx\egtt\taxiways;egxx\egtt\visual;
+egxx;egxx\eg-military;egxx\eg-military\airfields;egxx\eg-military\sids;egxx\eg-military\stars;egxx\eg-military\taxiways;egxx\eg-nav;egxx\egpx;egxx\egpx\airfield-layouts;egxx\egpx\sids;egxx\egpx\stars;egxx\egpx\taxiways;egxx\egpx\visual;egxx\egtt;egxx\egtt\airfield-layouts;egxx\egtt\sids;egxx\egtt\stars;egxx\egtt\taxiways;egxx\egtt\visual;
 
 [DEFINE]
 CLRTRA;#003d1240;
@@ -22,7 +22,7 @@ F;egtt\egtt-atc.atc
 
 [AIRPORT]
 F;eg-nav\egxx-apt.apt
-F;eg-nav\egtt-military-apt.apt
+F;eg-nav\egxx-military-apt.apt
 
 [RUNWAY]
 F;eg-nav\egxx-rwy.rwy
@@ -35,6 +35,7 @@ F;eg-nav\egxx-fix.fix
 F;eg-nav\egxx-procedure-fix.fix
 F;eg-nav\egxx-foreign-fix.fix
 F;eg-nav\egxx-military-fix.fix
+F;eg-nav\egxx-military-procedure-fix.fix
 
 [NDB]
 F;eg-nav\egxx-ndb.ndb
