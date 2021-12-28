@@ -12,9 +12,9 @@ W000.27.41.000
 egxx;egxx\eg-military;egxx\eg-military\airfields;egxx\eg-military\sids;egxx\eg-military\stars;egxx\eg-military\taxiways;egxx\eg-nav;egxx\egpx;egxx\egpx\airfield-layouts;egxx\egpx\sids;egxx\egpx\stars;egxx\egpx\taxiways;egxx\egpx\visual;egxx\egtt;egxx\egtt\airfield-layouts;egxx\egtt\sids;egxx\egtt\stars;egxx\egtt\taxiways;egxx\egtt\visual;
 
 [DEFINE]
-CLRTRA;#003d1240;
-CLRARA;#003d1240;
-CLRRVC;#003d1240;
+TRAS;#003d1240;
+REFUELLINGAREAS;#003d1240;
+RADARCORRIDORS;#003d1240;
 
 [ATC]
 F;egpx\egpx-atc.atc
