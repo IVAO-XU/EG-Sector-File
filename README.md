@@ -20,9 +20,11 @@ https://wiki.ivao.aero/en/home/devops/manuals/SectorFile_Definition
 3) [ ] [Add poly fill/line to show when external area units are online][i3]
 4) [ ] [Fix ATC high/low sector boundaries to match up perfectly][i4]
 5) [ ] [Add gate size information to gates file][i5] (https://wiki.ivao.aero/en/home/devops/manuals/SectorFile_Definition#gates-gates-information)
+6) [ ] [High and low airways are missing points outside the UK FIR][i6]
 
 [i1]: https://github.com/IVAO-XU/EG-Sector-File/issues/1
 [i2]: https://github.com/IVAO-XU/EG-Sector-File/issues/2
 [i3]: https://github.com/IVAO-XU/EG-Sector-File/issues/3
 [i4]: https://github.com/IVAO-XU/EG-Sector-File/issues/4
 [i5]: https://github.com/IVAO-XU/EG-Sector-File/issues/5
+[i6]: https://github.com/IVAO-XU/EG-Sector-File/issues/6
