@@ -14,6 +14,7 @@ egxx;egxx\egtt;egxx\egpx;egxx\eg-military;egxx\eg-nav;
 [AIRPORT]
 F;eg-nav\egxx-apt.apt
 F;eg-nav\egtt-military-apt.apt
+F;eg-nav\egxx-gates.gts
 
 [RUNWAY]
 F;eg-nav\egxx-rwy.rwy
