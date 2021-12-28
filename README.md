@@ -9,7 +9,7 @@ https://wiki.ivao.aero/en/home/devops/manuals/SectorFile_Definition
 ## To Do
 
 - [x] Find lower resolution GEO boundary
-- [ ] #1
+- [x] #001
 - [ ] Use poly fill/line to show airway/CAS structure for airspace when an area unit is online
 - [ ] Add poly fill/line to show when external area units are online
 - [ ] Fix ATC high/low sector boundaries to match up perfectly
