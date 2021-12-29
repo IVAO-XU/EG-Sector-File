@@ -1,16 +1,53 @@
-// --------------------------------------------------------------------
-// - Aurora Sector File -----------------------------------------------
-// - London (EGTT) and Scottish (EGPX) FIRs ---------------------------
-// - Maintained By - Shaun Ellis (471730) -----------------------------
-// - Contributors - Craig Tyler (425236) & Ryan Moore (419127) --------
-// --------------------------------------------------------------------
-// - (C)2021 IVAO United Kingdom and Ireland Division xu.ivao.aero ----
-// - Usage only allowed on the IVAO Network ---------------------------
-// --------------------------------------------------------------------
-//
-EGNX;09;DTY4P;DTY;DTY;
-EGNX;09;TNT3P;TNT;TNT;
-EGNX;09;POL2P;POL;POL;
+//////////////////////////////////////////
+///       IVAO XU COMMUNITY Sector     ///
+/// Developed by the IVAO XU community ///
+//////////////////////////////////////////
+
 EGNX;09;BPK2P;BPK;BPK;
+N052.49.52.880;W001.18.30.940;
+DER09;DER09;
+D095B;D095B;
+D121G;D121G;5000;
+NUTBA;NUTBA;FL090;
+BPK;BPK;
+
+EGNX;09;DTY4P;DTY;DTY;
+N052.49.52.880;W001.18.30.940;
+DER09;DER09;
+D095B;D095B;
+D118E;D118E;
+HON30;HON30;3000;
+D039Y;D039Y;6000;
+D039S;D039S;
+D339W;D339W;FL090;
+DTY;DTY;
+
+EGNX;09;POL2P;POL;POL;
+N052.49.52.880;W001.18.30.940;
+DER09;DER09;
+D095A;D095A;
+D038E;D038E;3000;
+ODPIX;ODPIX;5000;
+POL50;POL50;6000;
+POL;POL;
+
+EGNX;09;TNT3P;TNT;TNT;
+DER09;DER09;
+D095A;D095A;
+D127O;D127O;3000;
+TNT;TNT;
+
 EGNX;27;DTY3N;DTY;DTY;
+N052.49.50.360;W001.20.48.860;
+D268A;D268A;810;
+D232G;D232G;3000;
+DTY31;DTY31;5500;
+D339W;D339W;FL090;
+DTY;DTY;
+
 EGNX;27;TNT2N;TNT;TNT;
+N052.49.50.360;W001.20.48.860;
+D268A;D268A;810;
+D162G;D162G;5000;
+D162D;D162D;6000;
+TNT;TNT;
