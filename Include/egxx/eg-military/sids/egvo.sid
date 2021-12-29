@@ -1,0 +1,22 @@
+//////////////////////////////////////////
+///       IVAO XU COMMUNITY Sector     ///
+/// Developed by the IVAO XU community ///
+//////////////////////////////////////////
+
+EGVO;09;CPT09;CPT;CPT;
+N051.14.01.720;W000.55.46.610;
+CPT;CPT;
+
+EGVO;09;HAZEL09;HAZEL;HAZEL;
+N051.14.01.720;W000.55.46.610;
+ODH;ODH;
+HAZEL;HAZEL;2400
+
+EGVO;27;CPT27;CPT;CPT;
+N051.14.04.430;W000.57.21.140;
+CPT;CPT;
+
+EGVO;27;HAZEL27;HAZEL;HAZEL;
+N051.14.04.430;W000.57.21.140;
+ODH;ODH;
+HAZEL;HAZEL;2400
