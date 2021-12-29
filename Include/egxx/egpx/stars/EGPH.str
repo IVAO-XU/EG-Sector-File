@@ -1,37 +1,34 @@
-// --------------------------------------------------------------------
-// - Aurora Sector File -----------------------------------------------
-// - London (EGTT) and Scottish (EGPX) FIRs ---------------------------
-// - Maintained By - Shaun Ellis (471730) -----------------------------
-// - Contributors - Craig Tyler (425236) & Ryan Moore (419127) --------
-// --------------------------------------------------------------------
-// - (C)2021 IVAO United Kingdom and Ireland Division xu.ivao.aero ----
-// - Usage only allowed on the IVAO Network ---------------------------
-// --------------------------------------------------------------------
+///////////////////////////////////////////
+///       IVAO XU COMMUNITY Sector     ///
+/// Developed by the IVAO XU community ///
+//////////////////////////////////////////
 //
-EGPH;06:24;GIRVA1E;GIRVA;GIRVA;
-N055.11.07.990;W004.53.46.670;GIRVA/FL120;
-TLA;TLA;
-N055.43.01.890;W003.08.18.730;TARTN/FL070;
-
-EGPH;06:24;TUNSO1E;TUNSO;TUNSO;
-N055.06.40.240;W004.57.40.780;TUNSO/FL170;
-TLA;TLA;
-N055.43.01.890;W003.08.18.730;TARTN/FL070;
-
-EGPH;06:24;INPIP1E;INPIP;INPIP;
-N054.52.35.540;W002.53.46.100;INPIP/FL260;
-N055.08.57.440;W003.05.39.460;INREV/FL200;
-ESKDO;ESKDO;
-N055.43.01.890;W003.08.18.730;TARTN/FL070;
 
 EGPH;06:24;AGPED1E;AGPED;AGPED;
-N055.07.18.900;W001.56.57.150;AGPED/FL260;
+AGPED;AGPED;
 HAVEN;HAVEN;
-N055.43.01.890;W003.08.18.730;TARTN/FL070;
+TARTN;TARTN;FL070;
+
+EGPH;06:24;GIRVA1E;GIRVA;GIRVA;
+GIRVA;GIRVA;
+TLA;TLA;
+TARTN;TARTN;FL070;
+
+EGPH;06:24;INPIP1E;INPIP;INPIP;
+INPIP;INPIP;
+INREV;INREV;FL200;
+ESKDO;ESKDO;
+TARTN;TARTN;FL070;
 
 EGPH;06:24;PTH1G;PTH;PTH;
+PTH;PTH;
 GRICE;GRICE;
-N056.08.02.110;W003.50.00.980;STIRA/FL070;
+STIRA;STIRA;FL070;
+
+EGPH;06:24;TUNSO1E;TUNSO;TUNSO;
+TUNSO;TUNSO;
+TLA;TLA;
+TARTN;TARTN;FL070;
 
 
 //HOLDS
