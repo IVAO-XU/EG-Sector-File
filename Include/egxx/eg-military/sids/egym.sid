@@ -1,0 +1,22 @@
+//////////////////////////////////////////
+///       IVAO XU COMMUNITY Sector     ///
+/// Developed by the IVAO XU community ///
+//////////////////////////////////////////
+
+EGYM;01;MID01N;;;
+DER01;DER01;
+D006C;D006C;2500;
+
+EGYM;01;MID01W;;;
+DER01;DER01;
+D006C;D006C;2500;
+
+EGYM;06;MID06;;;
+DER06;DER06;
+
+EGYM;19;MID19;;;
+DER19;DER19;
+D191C;D191C;
+
+EGYM;24;MID24;;;
+DER24;DER24;
