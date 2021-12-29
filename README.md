@@ -31,7 +31,7 @@ In no particular order...
 8) [ ] [High and low airways are missing points outside the UK FIR][i6]
 9) [ ] Add VFR reporting points on a per-airport basis
 10) [ ] Add bases of CAS, MRVA altitudes, etc. on a per airport basis
-11) [ ] Alter Alderny island
+11) [ ] Alter Alderney island
 
 [i1]: https://github.com/IVAO-XU/EG-Sector-File/issues/1
 [i2]: https://github.com/IVAO-XU/EG-Sector-File/issues/2
