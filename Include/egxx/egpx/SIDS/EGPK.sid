@@ -1,17 +1,52 @@
-// --------------------------------------------------------------------
-// - Aurora Sector File -----------------------------------------------
-// - London (EGTT) and Scottish (EGPX) FIRs ---------------------------
-// - Maintained By - Shaun Ellis (471730) -----------------------------
-// - Contributors - Craig Tyler (425236) & Ryan Moore (419127) --------
-// --------------------------------------------------------------------
-// - (C)2021 IVAO United Kingdom and Ireland Division xu.ivao.aero ----
-// - Usage only allowed on the IVAO Network ---------------------------
-// --------------------------------------------------------------------
-//
-EGPK;12;SUDBY1L;SUDBY;SUDBY;
-EGPK;12;SUMIN1L;SUMIN;SUMIN;
-EGPK;12;OKNOB1L;OKNOB;OKNOB;
-EGPK;12;TRN2L;TRN;TRN;
+//////////////////////////////////////////
+///       IVAO XU COMMUNITY Sector     ///
+/// Developed by the IVAO XU community ///
+//////////////////////////////////////////
+
 EGPK;30;DAUNT1K;DAUNT;DAUNT;
+N055.30.54.820;W004.36.41.310;
+PKW01;PKW01;
+PKW04;PKW04;4000;
+DAUNT;DAUNT;6000;
+
 EGPK;30;LUCCO1K;LUCCO;LUCCO;
+N055.30.54.820;W004.36.41.310;
+PKW01;PKW01;
+PKW02;PKW02;4000;
+PKW03;PKW03;
+LUCCO;LUCCO;6000;
+
 EGPK;30;TRN2K;TRN;TRN;
+N055.30.54.820;W004.36.41.310;
+PKW01;PKW01;
+PKW02;PKW02;4000;
+TRN;TRN;6000;
+
+EGPK;12;OKNOB1L;OKNOB;OKNOB;
+N055.30.08.680;W004.34.27.830;
+PKE02;PKE02;
+GOSOB;GOSOB;3500;
+PKS03;PKS03;4000;
+OKNOB;OKNOB;6000;
+
+EGPK;12;SUDBY1L;SUDBY;SUDBY;
+N055.30.08.680;W004.34.27.830;
+PKE02;PKE02;
+PKS01;PKS01;4000;
+PKS02;PKS02;5000;
+SUDBY;SUDBY;6000;
+
+EGPK;12;SUMIN1L;SUMIN;SUMIN;
+N055.30.08.680;W004.34.27.830;
+PKE02;PKE02;
+PKE03;PKE03;4000;
+PKE04;PKE04;5000;
+PKE05;PKE05;6000;
+SUMIN;SUMIN;6000;
+
+EGPK;12;TRN2L;TRN;TRN;
+N055.30.08.680;W004.34.27.830;
+PKE02;PKE02;
+GOSOB;GOSOB;3500;
+PKS03;PKS03;4000;
+TRN;TRN;6000;
