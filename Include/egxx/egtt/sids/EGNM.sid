@@ -1,16 +1,66 @@
-// --------------------------------------------------------------------
-// - Aurora Sector File -----------------------------------------------
-// - London (EGTT) and Scottish (EGPX) FIRs ---------------------------
-// - Maintained By - Shaun Ellis (471730) -----------------------------
-// - Contributors - Craig Tyler (425236) & Ryan Moore (419127) --------
-// --------------------------------------------------------------------
-// - (C)2021 IVAO United Kingdom and Ireland Division xu.ivao.aero ----
-// - Usage only allowed on the IVAO Network ---------------------------
-// --------------------------------------------------------------------
-//
-EGNM;14;POL2X;POL;POL;
-EGNM;14;DOPEK2X;DOPEK;DOPEK;
-EGNM;14;LAMIX2X;LAMIX;LAMIX;
-EGNM;32;NELSA3W;NELSA;NELSA;
+//////////////////////////////////////////
+///       IVAO XU COMMUNITY Sector     ///
+/// Developed by the IVAO XU community ///
+//////////////////////////////////////////
+
 EGNM;32;DOPEK2W;DOPEK;DOPEK;
+D314A;D314A;1190;
+D314B;D314B;
+D298D;D298D;
+D253E;D253E;3000;
+GAM38;GAM38;3500;
+GAM35;GAM35;FL60;
+GAM31;GAM31;FL70;
+D319S;D319S;FL70;
+D319R;D319R;FL70;
+D323O;D323O;FL70;
+DOPEK;DOPEK;FL70;
+
+EGNM;14;DOPEK2X;DOPEK;DOPEK;
+D141B;D141B;
+GAM36;GAM36;3000;
+GAM32;GAM32;3500;
+GAM29;GAM29;FL70;
+D327S;D327S;FL70;
+D327O;D327O;FL70;
+D327N;D327N;FL70;
+DOPEK;DOPEK;FL70;
+
 EGNM;32;LAMIX2W;LAMIX;LAMIX;
+D314A;D314A;1190;
+D314B;D314B;
+D298D;D298D;
+D253E;D253E;3000;
+GAM38;GAM38;3500;
+GAM35;GAM35;FL60;
+GAM31;GAM31;FL70;
+D319S;D319S;FL70;
+D319R;D319R;FL70;
+D323O;D323O;FL70;
+DOPEK;DOPEK;FL70;
+LAMIX;LAMIX;FL70;
+
+EGNM;14;LAMIX2X;LAMIX;LAMIX;
+D141B;D141B;
+GAM36;GAM36;3000;
+GAM32;GAM32;3500;
+GAM29;GAM29;FL70;
+D327S;D327S;FL70;
+D327O;D327O;FL70;
+D327N;D327N;FL70;
+DOPEK;DOPEK;FL70;
+
+EGNM;32;NELSA3W;NELSA;NELSA;
+D314A;D314A;1190;
+D314B;D314B;
+D298D;D298D;
+D052L;D052L;3000;
+D052K;D052K;
+D052J;D052J;3500;
+NELSA;NELSA;FL70;
+
+EGNM;14;POL2X;POL;POL;
+D141B;D141B;
+D082N;D082N;3000;
+D082J;D082J;3500;
+POL;POL;FL70;
