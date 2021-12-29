@@ -1,0 +1,18 @@
+//////////////////////////////////////////
+///       IVAO XU COMMUNITY Sector     ///
+/// Developed by the IVAO XU community ///
+//////////////////////////////////////////
+
+EGUL;24;ASROT1B;ASROT;ASROT;
+N052.24.08.850;E000.32.39.750;
+D238A;D238A;
+ASROT;ASROT;FL190;
+
+EGUL;06;IPKOP1;IPKOP;IPKOP;
+N052.24.58.870;E000.34.39.560;
+D075H;D075H;3000;
+IPKOP;IPKOP;FL190;
+
+EGUL;06;TIDPU1A;TIDPU;TIDPU;
+N052.24.58.870;E000.34.39.560;
+TIDPU;TIDPU;FL100;
