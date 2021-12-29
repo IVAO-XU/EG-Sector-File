@@ -1,13 +1,67 @@
-// --------------------------------------------------------------------
-// - Aurora Sector File -----------------------------------------------
-// - London (EGTT) and Scottish (EGPX) FIRs ---------------------------
-// - Maintained By - Shaun Ellis (471730) -----------------------------
-// - Contributors - Craig Tyler (425236) & Ryan Moore (419127) --------
-// --------------------------------------------------------------------
-// - (C)2021 IVAO United Kingdom and Ireland Division xu.ivao.aero ----
-// - Usage only allowed on the IVAO Network ---------------------------
-// --------------------------------------------------------------------
-//
+//////////////////////////////////////////
+///       IVAO XU COMMUNITY Sector     ///
+/// Developed by the IVAO XU community ///
+//////////////////////////////////////////
+
+//Transisition
+
+EGPE;05;BONBY;BONBY;BONBY;1;
+BONBY;BONBY;
+D338N;D338N;4900;
+D338L;D338L;
+D304L;D304L;
+D246L;D246L;
+FD05;FD05;2700;
+
+EGPE;05;INBA1;INBAS;INBAS;1;
+INBAS;INBAS;
+INS40;INS40;
+D190Y;D190Y;5800;
+D190P;D190P;5000;
+D190N;D190N;
+D212N;D212N;
+D228N;D228N;
+FD05;FD05;2700;
+
+EGPE;05;INBA2;INBAS;INBAS;1;
+INBAS;INBAS;
+INS40;INS40;
+D190Y;D190Y;5800;
+GUSSI;GUSSI;5000;
+D190N;D190N;4500;
+D190L;D190L;
+D212L;D212L;
+D226L;D226L;
+FD05;FD05;2700;
+
+EGPE;05;ULLAP;ULLAP;ULLAP;1;
+ULLAP;ULLAP;
+INS41;INS41;5200;
+D304Y;D304Y;5200;
+GARVA;GARVA;4900;
+D304N;D304N;3600;
+D304L;D304L;
+D246L;D246L;
+FD05;FD05;2700;
+
+EGPE;23;ADN;ADN;ADN;1;
+ADN;ADN;
+INS39;INS39;
+D106Y;D106Y;
+D106O;D106O;5600;
+D106K;D106K;2500;
+D106J;D106J;
+D058J;D058J;
+FD23;FD23;2000;
+
+EGPE;23;BONBY;BONBY;BONBY;1;
+BONBY;BONBY;
+D338O;D338O;4900;
+D338K;D338K;2500;
+D338J;D338J;
+D037J;D037J;
+FD23;FD23;2000;
+
 //HOLDS
 EGPD;16:34;ADN;ADN;ADN;2;
 N057.18.37.620;W002.16.01.950;
