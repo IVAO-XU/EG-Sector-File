@@ -1,16 +1,52 @@
-// --------------------------------------------------------------------
-// - Aurora Sector File -----------------------------------------------
-// - London (EGTT) and Scottish (EGPX) FIRs ---------------------------
-// - Maintained By - Shaun Ellis (471730) -----------------------------
-// - Contributors - Craig Tyler (425236) & Ryan Moore (419127) --------
-// --------------------------------------------------------------------
-// - (C)2021 IVAO United Kingdom and Ireland Division xu.ivao.aero ----
-// - Usage only allowed on the IVAO Network ---------------------------
-// --------------------------------------------------------------------
-//
-EGPH;06;GOSAM1D;GOSAM;GOSAM;
-EGPH;06;GRICE4D;GRICE;GRICE;
-EGPH;06;TLA6D;TLA;TLA;
+//////////////////////////////////////////
+///       IVAO XU COMMUNITY Sector     ///
+/// Developed by the IVAO XU community ///
+//////////////////////////////////////////
+
 EGPH;24;GOSAM1C;GOSAM;GOSAM;
+N055.56.41.990;W003.23.13.900;
+UW;UW;
+D262E;D262E;4500;
+D262J;D262J;6000;
+MAVIX;MAVIX;
+GOSAM;GOSAM;6000;
+
 EGPH;24;GRICE3C;GRICE;GRICE;
+N055.56.41.990;W003.23.13.900;
+UW;UW;
+TLA32;TLA32;
+TLA33;TLA33;4000;
+TLA38;TLA38;4500;
+GRICE;GRICE;6000;
+
 EGPH;24;TLA6C;TLA;TLA;
+N055.56.41.990;W003.23.13.900;
+UW;UW;
+D242H;D242H;
+D345T;D345T;4500;
+D345M;D345M;5500;
+TLA;TLA;6000;
+
+EGPH;06;GOSAM1D;GOSAM;GOSAM;
+N055.57.17.660;W003.21.28.660;
+D068A;D068A;
+D051C;D051C;
+GOW35;GOW35;5000;
+GOW30;GOW30;6000;
+CUMBO;CUMBO;
+GOSAM;GOSAM;6000;
+
+EGPH;06;GRICE4D;GRICE;GRICE;
+N055.57.17.660;W003.21.28.660;
+D068A;D068A
+D051C;D051C;
+SAB46;SAB46;4500;
+GRICE;GRICE;6000;
+
+EGPH;06;TLA6D;TLA;TLA;
+D068A;D068A;
+D048G;D048G;
+TL30A;TL30A;
+TLA30;TLA30;
+D026M;D026M;5500;
+TLA;TLA;6000;
