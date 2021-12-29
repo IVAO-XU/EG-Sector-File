@@ -1,22 +1,98 @@
-// --------------------------------------------------------------------
-// - Aurora Sector File -----------------------------------------------
-// - London (EGTT) and Scottish (EGPX) FIRs ---------------------------
-// - Maintained By - Shaun Ellis (471730) -----------------------------
-// - Contributors - Craig Tyler (425236) & Ryan Moore (419127) --------
-// --------------------------------------------------------------------
-// - (C)2021 IVAO United Kingdom and Ireland Division xu.ivao.aero ----
-// - Usage only allowed on the IVAO Network ---------------------------
-// --------------------------------------------------------------------
-//
+//////////////////////////////////////////
+///       IVAO XU COMMUNITY Sector     ///
+/// Developed by the IVAO XU community ///
+//////////////////////////////////////////
+
 EGKB;03;BPK2;BPK;BPK;
-EGKB;03;CPT2;CPT;CPT;
-EGKB;03;DAGGA2;DAGGA;DAGGA;
-EGKB;03;DVR2;DVR;DVR;
-EGKB;03;DVR2;DET;DET;
-EGKB;03;LYD2;LYD;LYD;
+D275I;D275I;2500;
+D275D;D275D;4000;
+DET;DET;4000;
+BPK;BPK;4000;
+
 EGKB;21;BPK2;BPK;BPK;
+DER21;DER21;
+BIG;BIG;2400;
+D275I;D275I;2500;
+D275D;D275D;4000;
+DET;DET;4000;
+BPK;BPK;4000;
+
+EGKB;03;CPT2;CPT;CPT;
+D275I;D275I;2500;
+D275D;D275D;4000;
+DET;DET;4000;
+BPK;BPK;4000;
+HEN;HEN;4000;
+CPT;CPT;4000;
+
 EGKB;21;CPT2;CPT;CPT;
+DER21;DER21;
+BIG;BIG;2400;
+D275I;D275I;2500;
+D275D;D275D;4000;
+DET;DET;4000;
+BPK;BPK;4000;
+HEN;HEN;4000;
+CPT;CPT;4000;
+
+EGKB;03;DAGGA2;DAGGA;DAGGA;
+D275I;D275I;2500;
+D275D;D275D;4000;
+DET;DET;4000;
+FRANE;FRANE;4000;
+D013G;D013G;;
+SPEAR;SPEAR;5000;
+TOVGU;TOVGU;5000;
+DAGGA;DAGGA;5000;
+
 EGKB;21;DAGGA2;DAGGA;DAGGA;
+DER21;DER21;
+BIG;BIG;2400;
+D275I;D275I;2500;
+D275D;D275D;4000;
+DET;DET;4000;
+FRANE;FRANE;4000;
+D013G;D013G;;
+SPEAR;SPEAR;5000;
+TOVGU;TOVGU;5000;
+DAGGA;DAGGA;5000;
+
+EGKB;03;DVR2;DVR;DVR;
+D275I;D275I;2500;
+D275D;D275D;4000;
+DET;DET;4000;
+DVR;DVR;4000;
+
 EGKB;21;DVR2;DVR;DVR;
+DER21;DER21;
+BIG;BIG;2400;
+D275I;D275I;2500;
+D275D;D275D;4000;
+DET;DET;4000;
+DVR;DVR;4000;
+
+EGKB;03;DVR2;DET;DET;
+D275I;D275I;2500;
+D275D;D275D;4000;
+DET;DET;4000;
+
 EGKB;21;DVR2;DET;DET;
+DER21;DER21;
+BIG;BIG;2400;
+D275I;D275I;2500;
+D275D;D275D;4000;
+DET;DET;4000;
+
+EGKB;03;LYD2;LYD;LYD;
+D275I;D275I;2500;
+D275D;D275D;4000;
+DET;DET;4000;
+LYD;LYD;4000;
+
 EGKB;21;LYD2;LYD;LYD;
+DER21;DER21;
+BIG;BIG;2400;
+D275I;D275I;2500;
+D275D;D275D;4000;
+DET;DET;4000;
+LYD;LYD;4000;
