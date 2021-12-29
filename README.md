@@ -12,6 +12,11 @@ https://wiki.ivao.aero/en/home/devops/manuals/SectorFile_Definition
 *Detailed SIDs and STARs for all airports comprehensively drawn.*
 
 ## How to Contribute
+Github Desktop
+Visual Studio Code
+Fork the repo
+Make changes
+Use naming convention...
 
 ## To Do
 In no particular order...
