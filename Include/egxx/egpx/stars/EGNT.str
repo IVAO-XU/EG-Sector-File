@@ -1,36 +1,32 @@
-// --------------------------------------------------------------------
-// - Aurora Sector File -----------------------------------------------
-// - London (EGTT) and Scottish (EGPX) FIRs ---------------------------
-// - Maintained By - Shaun Ellis (471730) -----------------------------
-// - Contributors - Craig Tyler (425236) & Ryan Moore (419127) --------
-// --------------------------------------------------------------------
-// - (C)2021 IVAO United Kingdom and Ireland Division xu.ivao.aero ----
-// - Usage only allowed on the IVAO Network ---------------------------
-// --------------------------------------------------------------------
-//
+//////////////////////////////////////////
+//        IVAO XU COMMUNITY Sector      //
+// Developed by the IVAO XU community   //
+//////////////////////////////////////////
+
 EGNT;07:25;POL1N;POL;POL;
 POL;POL;
 GOKOV;GOKOV;
-N054.24.15.370;W001.47.03.990;IRKOR/FL160;
-N054.32.07.740;W001.44.34.300;XODRU/FL120;
-N054.41.57.090;W001.41.26.130;ETSES/FL90;
+IRKOR;IRKOR;FL160;
+XODRU;XODRU;FL120;
+ETSES;ETSES;FL90;
 
 EGNT;07:25;RIMTO1N;RIMTO;RIMTO;
 RIMTO;RIMTO;
 GOKOV;GOKOV;
-N054.24.15.370;W001.47.03.990;IRKOR/FL160;
-N054.32.07.740;W001.44.34.300;XODRU/FL120;
-N054.41.57.090;W001.41.26.130;ETSES/FL90;
-
+IRKOR;IRKOR;FL160;
+XODRU;XODRU;FL120;
+ETSES;ETSES;FL90;
 
 //TRANSISTIONS
-EGNT;07:25;ETSES1J;ETSES;ETSES;1;
-ETSES;ETSES;
-ERUXI;ERUXI;
+EGNT;07;ETSES1J;ETSES;ETSES;1;
+ETSES;ETSES;FL90;
+NTS01;NTS01;6000;
+ERUXI;ERUXI;5500;
 
-EGNT;07:25;ETSES1K;ETSES;ETSES;1;
-ETSES;ETSES;
-UPMOP;UPMOP;
+EGNT;25;ETSES1K;ETSES;ETSES;1;
+ETSES;ETSES;FL90;
+NTS02;NTS02;6000;
+UPMOP;UPMOP;4000;
 
 //HOLDS
 EGNT;07:25;ETSES;ETSES;ETSES;2;

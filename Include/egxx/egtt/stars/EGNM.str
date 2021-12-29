@@ -1,13 +1,49 @@
-// --------------------------------------------------------------------
-// - Aurora Sector File -----------------------------------------------
-// - London (EGTT) and Scottish (EGPX) FIRs ---------------------------
-// - Maintained By - Shaun Ellis (471730) -----------------------------
-// - Contributors - Craig Tyler (425236) & Ryan Moore (419127) --------
-// --------------------------------------------------------------------
-// - (C)2021 IVAO United Kingdom and Ireland Division xu.ivao.aero ----
-// - Usage only allowed on the IVAO Network ---------------------------
-// --------------------------------------------------------------------
-//
+//////////////////////////////////////////
+///       IVAO XU COMMUNITY Sector     ///
+/// Developed by the IVAO XU community ///
+//////////////////////////////////////////
+
+EGNM;14:32;CALDA1432;CALDA;CALDA;
+CALDA;CALDA;
+POL;POL;
+LBA;LBA;
+
+EGNM;14:32;EMBOR1432;EMBOR;EMBOR;
+EMBOR;EMBOR;
+TNT;TNT;
+DENBY;DENBY;
+LBA;LBA;
+
+EGNM;14:32;GASKO1432;GASKO;GASKO;
+GASKO;GASKO;
+LBA;LBA;
+
+EGNM;14:32;GOLES1432;GOLES;GOLES;
+GOLES;GOLES;
+BATLI;BATLI;
+LBA;LBA;
+
+EGNM;14:32;POL1432;POL;POL;
+POL;POL;
+LBA;LBA;
+
+EGNM;14:32;REXAM1432;REXAM;REXAM;
+REXAM;REXAM;
+BARTN;BARTN;
+POL;POL;
+LBA;LBA;
+
+EGNM;14:32;TNT1432;TNT;TNT;
+TNT;TNT;
+DENBY;DENBY;
+LBA;LBA;
+
+EGNM;14:32;WAL1432;WAL;WAL;
+WAL;WAL;
+BARTN;BARTN;
+POL;POL;
+LBA;LBA;
+
 //HOLDS
 EGNM;14:32;LBA;LBA;LBA;2;
 N053.51.53.970;W001.39.10.410;
