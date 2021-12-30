@@ -9,7 +9,7 @@ W000.27.41.000
 60
 37.4
 -0.1
-egxx;egxx\eg-military;egxx\eg-military\airfields;egxx\eg-military\gates;egxx\eg-military\sids;egxx\eg-military\stars;egxx\eg-military\taxiways;egxx\eg-nav;egxx\egpx;egxx\egpx\airfield-layouts;egxx\egpx\gates;egxx\egpx\sids;egxx\egpx\stars;egxx\egpx\taxiways;egxx\egpx\visual;egxx\egtt;egxx\egtt\airfield-layouts;egxx\egtt\gates;egxx\egtt\sids;egxx\egtt\stars;egxx\egtt\taxiways;egxx\egtt\visual;
+egxx;egxx\eg-military\airfields;egxx\eg-military\sids;egxx\eg-military\stars;egxx\eg-military\taxiways;egxx\egpx;egxx\egpx\airfield-layouts;egxx\egpx\sids;egxx\egpx\stars;egxx\egpx\taxiways;egxx\egpx\visual;egxx\egtt;egxx\egtt\airfield-layouts;egxx\egtt\gates;egxx\egtt\sids;egxx\egtt\stars;egxx\egtt\taxiways;egxx\egtt\visual
 
 [DEFINE]
 TRAS;#003d1240;
