@@ -1,3 +1,8 @@
+//////////////////////////////////////////
+///       IVAO XU COMMUNITY Sector     ///
+/// Developed by the IVAO XU community ///
+//////////////////////////////////////////
+
 //Taxiways
 //Line 1
 N055.30.57.494;W004.36.49.334;N055.30.57.775;W004.36.50.136;TAXI_CENTER;
