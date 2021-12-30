@@ -61,7 +61,7 @@ F;eg-nav\egxx-high-sectors.artcc
 F;eg-nav\egxx-low-sectors.artcc
 
 [ARTCC]
-F;eg-nav\cta-enroute.airspace
+F;eg-nav\ctr-cta-airport.airspace
 
 [GEO]
 F;eg-nav\egxx-coastline.geo
