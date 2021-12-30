@@ -5,6 +5,9 @@ Release date:
 AIRAC cycle included: 2113
 
 #Installation
+
+Welcome to the IVAO XU Community sectorfile for the London (EGTT) and Scottish (EGPX) Flight Information Regions.
+
 #Initial setup
 ###Choosing the right profile
 ###Choosing the right colourscheme
