@@ -60,6 +60,9 @@ F;eg-nav\egxx-high-sectors.artcc
 //LS button aka low sectors
 F;eg-nav\egxx-low-sectors.artcc
 
+[ARTCC]
+F;eg-nav\cta-enroute.airspace
+
 [GEO]
 F;eg-nav\egxx-coastline.geo
 F;eg-nav\egxx-danger-areas.danger
