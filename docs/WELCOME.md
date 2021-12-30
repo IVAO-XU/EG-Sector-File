@@ -1,8 +1,8 @@
 # How to use the IVAO XU Community Sectorfile
 
-Release version: 0.1-pre-alpha-1.0
-Release date: 
-AIRAC cycle included: 2113
+- Release version: 0.1-pre-alpha-1.0
+- Release date: 
+- AIRAC cycle included: 2113
 
 # Installation
 
