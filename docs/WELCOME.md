@@ -13,7 +13,7 @@ Welcome to the IVAO XU Community sectorfile for the London (EGTT) and Scottish (
 ### Choosing the right colourscheme
 ## Features for controllers
 ### Where to find things
-SIDs and STARs
-MRVA/bases of controlled airspace
-VRPs and VFR routes (entry/exit lanes, etc.)
+1) SIDs and STARs
+2) MRVA/bases of controlled airspace
+3) VRPs and VFR routes (entry/exit lanes, etc.)
 ### Things you didn't even know existed, but now you do
