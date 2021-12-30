@@ -12,9 +12,8 @@ Welcome to the IVAO XU Community sectorfile for the London (EGTT) and Scottish (
 ### Choosing the right profile
 ### Choosing the right colourscheme
 ## Features for controllers
-### What to expect as a GMP unit
-### What to expect as a GMC unit
-### What to expect as an AIR unit
-### What to expect as an approach radar unit
-### What to expect as a terminal control unit
-### What to expect as an area control unit
+### Where to find things
+SIDs and STARs
+MRVA/bases of controlled airspace
+VRPs and VFR routes (entry/exit lanes, etc.)
+### Things you didn't even know existed, but now you do
