@@ -1,5 +1,5 @@
-![GitHub Light](img/logo_white.png#gh-dark-mode-only)
-![GitHub Dark](img/logo_blue.png#gh-light-mode-only)
+![GitHub Light](img/logo_white.svg#gh-dark-mode-only)
+![GitHub Dark](img/logo_blue.svg#gh-light-mode-only)
 
 # London (EGTT) & Scottish (EGPX) FIR Sector File
 :wave: An unofficial community driven sector file for IVAO's Aurora software covering the London (EGTT) and Scottish (EGPX) FIRs.
