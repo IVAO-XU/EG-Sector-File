@@ -1,13 +1,8 @@
-// --------------------------------------------------------------------
-// - Aurora Sector File -----------------------------------------------
-// - London (EGTT) and Scottish (EGPX) FIRs ---------------------------
-// - Maintained By - Shaun Ellis (471730) -----------------------------
-// - Contributors - Craig Tyler (425236) & Ryan Moore (419127) --------
-// --------------------------------------------------------------------
-// - (C)2021 IVAO United Kingdom and Ireland Division xu.ivao.aero ----
-// - Usage only allowed on the IVAO Network ---------------------------
-// --------------------------------------------------------------------
-//
+//////////////////////////////////////////
+//        IVAO XU COMMUNITY Sector      //
+// Developed by the IVAO XU community   //
+//////////////////////////////////////////
+
 //***ad_twycentreline***
 //ini_centreline
 N053.10.42.175;W002.58.28.340;N053.10.44.611;W002.58.24.667;TAXI_CENTER;

@@ -1,12 +1,8 @@
-// - Aurora - Sectorfile
-// - London (EGTT) and Scottish (EGPX) FIRs
-// - Version: AIRAC 2004
-// - Created by Ryan Moore XU-SOC (xu-soc@ivao.aero)
-// -------------------------------------------------------------------- 
-// - (C)2020 IVAO United Kingdom and Ireland Division xu.ivao.aero
-// - Usage only allowed on the IVAO Network or at IVAO related events
-// -------------------------------------------------------------------- 
-//
+//////////////////////////////////////////
+//        IVAO XU COMMUNITY Sector      //
+// Developed by the IVAO XU community   //
+//////////////////////////////////////////
+
 //Boundary
 STATIC;#137522;1;#137522;
 N052.38.14.844;E000.31.59.488;
