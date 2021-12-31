@@ -1,0 +1,7 @@
+//////////////////////////////////////////
+//        IVAO XU COMMUNITY Sector      //
+// Developed by the IVAO XU community   //
+//////////////////////////////////////////
+
+//Holding Points
+A;EGHE;N049.54.51.302;W006.17.37.357;
