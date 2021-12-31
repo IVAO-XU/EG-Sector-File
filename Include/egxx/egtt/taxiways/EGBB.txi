@@ -3,7 +3,7 @@
 /// Developed by the IVAO XU community ///
 //////////////////////////////////////////
 
-Holding Points
+//Holding Points
 A1;EGBB;N052.27.59.005;W001.45.35.831;
 A2;EGBB;N052.27.57.071;W001.45.32.060;
 A3;EGBB; N052.27.55.109;W001.45.29.739;

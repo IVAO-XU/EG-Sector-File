@@ -3,7 +3,7 @@
 /// Developed by the IVAO XU community ///
 //////////////////////////////////////////
 
-Holding Points
+//Holding Points
 A1;EGCB;N053.28.14.013;W002.23.04.449;
 A2;EGCB;N053.28.15.740;W002.23.01.575;
 A3;EGCB;N053.28.17.237;W002.23.03.395;
@@ -16,7 +16,7 @@ B4;EGCB;N053.28.15.541;W002.23.38.540;
 C1;EGCB;N053.28.10.731;W002.23.27.013;
 D1;EGCB;N053.28.12.487;W002.23.36.929;
 
-Aprons
+//Aprons
 West Apron;EGCB;N053.28.12.374 W002.23.18.279;
 Main Apron;EGCB;N053.28.15.091 W002.23.09.273;
 East Apron;EGCB;N053.28.15.230 W002.23.04.175;

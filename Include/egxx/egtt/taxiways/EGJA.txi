@@ -3,5 +3,6 @@
 // Developed by the IVAO XU community   //
 //////////////////////////////////////////
 
+//Holding Points
 A1;EGJA;N049.42.26.500;W002.12.42.000
 B;EGJA;N049.42.25.500;W002.12.55.000
