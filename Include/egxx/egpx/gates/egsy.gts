@@ -3,4 +3,5 @@
 /// Developed by the IVAO XU community ///
 //////////////////////////////////////////
 
+//Stands
 1;EGSY;N051.24.31.800;W003.26.13.200;
