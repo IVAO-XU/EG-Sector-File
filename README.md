@@ -17,6 +17,8 @@ https://wiki.ivao.aero/en/home/devops/manuals/SectorFile_Definition
 ## How to Contribute
 ### Overview
 Any member of the community may contribute this sector file so long as:
++ The data provided is factual and realistic.
++
 
 ### Contribution Agreement
 By contributing to this repositary you agree that the onwership of any alteration(s) or addition(s) you make are transferred to IVAO United Kingdom & Ireland in its entirety and cannot be recalled.
