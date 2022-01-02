@@ -15,6 +15,7 @@ egxx;egxx\eg-nav;egxx\eg-military\airfields-layouts;egxx\eg-military\sids;egxx\e
 TRAS;#003d1240;
 REFUELLINGAREAS;#003d1240;
 RADARCORRIDORS;#003d1240;
+BASEOFCAS;#47647E;
 
 [ATC]
 F;egpx\egpx-atc.atc
@@ -65,6 +66,7 @@ F;eg-nav\ctr-cta-airport.airspace
 
 [GEO]
 F;eg-nav\egxx-coastline.geo
+F;eg-nav\egxx-base-of-cas.geo
 F;eg-nav\egxx-danger-areas.danger
 F;eg-nav\egxx-prohibited-areas.prohibit
 F;eg-nav\egxx-restricted-areas.restrict
