@@ -4,8 +4,8 @@
 # London (EGTT) & Scottish (EGPX) FIR Sector File
 :wave: An official community driven sector file for IVAO's Aurora software covering the London (EGTT) and Scottish (EGPX) FIRs.
 
-https://wiki.ivao.aero/en/home/devops/manuals/SectorFile_Definition
-https://wiki2.xu.ivao.aero/en/atc/sectorfile/getting-started
++ https://wiki.ivao.aero/en/home/devops/manuals/SectorFile_Definition
++ https://wiki2.xu.ivao.aero/en/atc/sectorfile/getting-started
 
 ## Features
 + :hourglass: **Faster loading time thanks to a less intricate coastline.**  
