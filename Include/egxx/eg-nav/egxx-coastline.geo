@@ -1,6 +1,6 @@
 //////////////////////////////////////////
 //        IVAO XU COMMUNITY Sector      //
-// Developed by the IVAO XU community   //
+//  Developed by the IVAO XU community  //
 //////////////////////////////////////////
 
 N047.52.12.000;W004.21.22.702;N047.58.13.400;W004.26.15.101;COAST;
