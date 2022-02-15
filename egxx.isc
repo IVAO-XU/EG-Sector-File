@@ -15,7 +15,10 @@ egxx;egxx\eg-nav;egxx\eg-military\airfields-layouts;egxx\eg-military\gates;egxx\
 TRAS;#003d1240;
 REFUELLINGAREAS;#003d1240;
 RADARCORRIDORS;#003d1240;
-BASEOFCAS;#47647E;
+CTA;#47647E;
+TMA;#47647E;
+KK_TAXI_BLUE;#0000FF;
+KK_TAXI_ORANGE;#FF9E15;
 
 [ATC]
 F;egpx\egpx-atc.atc
@@ -66,7 +69,7 @@ F;eg-nav\ctr-cta-airport.airspace
 
 [GEO]
 F;eg-nav\egxx-coastline.geo
-F;eg-nav\egxx-base-of-cas.geo
+F;eg-nav\egxx-tma-cta-ctr.geo
 F;eg-nav\egxx-danger-areas.danger
 F;eg-nav\egxx-prohibited-areas.prohibit
 F;eg-nav\egxx-restricted-areas.restrict
