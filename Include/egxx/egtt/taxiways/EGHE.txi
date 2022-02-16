@@ -3,6 +3,6 @@
 // Developed by the IVAO XU community   //
 //////////////////////////////////////////
 
-//Holding Points
+//Holding Point
 A;EGHE;49.914447;-6.293812;
 H;EGHE;49.913571;-6.294739;
