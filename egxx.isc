@@ -67,6 +67,9 @@ F;eg-nav\egxx-low-sectors.artcc
 [ARTCC]
 F;eg-nav\ctr-cta-airport.airspace
 
+[DEFINE]
+F;EGXX.def
+
 [GEO]
 F;eg-nav\egxx-coastline.geo
 F;eg-nav\egxx-tma-cta-ctr.geo
@@ -140,3 +143,4 @@ F;eg-military\airfield-layouts\EGWU.plf
 F;eg-military\airfield-layouts\EGXC.plf
 F;eg-military\airfield-layouts\EGYD.plf
 F;eg-military\airfield-layouts\EGYM.plf
+F;eg-atc\eg-foreign-atc.plf
