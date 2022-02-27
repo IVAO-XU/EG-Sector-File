@@ -135,6 +135,10 @@ F;egtt\airfield-layouts\EGSU.geo
 F;egtt\airfield-layouts\EGTE.geo
 
 [FILLCOLOR]
+F;eg-atc\egtt-c-ctr.plf
+F;eg-atc\egtt-n-ctr.plf
+F;eg-atc\egtt-s-ctr.plf
+F;eg-atc\egtt-w-ctr.plf
 F;eg-military\airfield-layouts\EGOV.plf
 F;eg-military\airfield-layouts\EGQK.plf
 F;eg-military\airfield-layouts\EGQS.plf
