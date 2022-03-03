@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>KK de-icing add-on.kml</name>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>KK De icing add on </name>
+		<open>1</open>
+		<Placemark>
+			<name>Blue</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-0.1737278711615775,51.15713153545641,0 -0.1737258845942069,51.15710911143631,0 -0.1737295444818099,51.1570814787977,0 -0.1737430668971274,51.15704662013479,0 -0.173764449230791,51.15701384201714,0 -0.1738006713093476,51.15698230406961,0 -0.1738313571671224,51.15694840321094,0 -0.1738587232835453,51.1569194346715,0 -0.1738804341346922,51.15689567430926,0 -0.1738803359943764,51.15687150271746,0 -0.1737049501404964,51.15635554874235,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Blue</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-0.1717981562479753,51.1574073686908,0 -0.1718032238294898,51.15737656289748,0 -0.171817686359953,51.15733708052594,0 -0.1718304953370919,51.15731592074833,0 -0.1718554343761858,51.15728728747629,0 -0.1718938019655913,51.15725556842331,0 -0.1721537522284766,51.15708266826209,0 -0.1719822642494095,51.15659356093146,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Orange</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-0.1737223413584521,51.15713198465345,0 -0.1737039078750924,51.15710395596791,0 -0.1736764132123758,51.15707878952102,0 -0.173642919547784,51.15705255826832,0 -0.1736174344202857,51.15703870973901,0 -0.1735674363255812,51.15701889830143,0 -0.1735151521951461,51.15700558601954,0 -0.1734627973407843,51.15699672914504,0 -0.1733664899683474,51.15698334583193,0 -0.1731582641264384,51.15695665933822,0 -0.1731354334755286,51.15694693302689,0 -0.1731246659436225,51.15693487174981,0 -0.1731101756338604,51.15691524419307,0 -0.1731043620678518,51.15690080742453,0 -0.1729517210743969,51.15646012377654,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Orange</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-0.1717943689668666,51.1574064665689,0 -0.1717786122971776,51.15738683649933,0 -0.1717507551741393,51.15736255126289,0 -0.1717251123817798,51.15734350152736,0 -0.1716813294212027,51.15731747404847,0 -0.1716435027337504,51.15730271360322,0 -0.1715906359016284,51.15728258459728,0 -0.1715604078679922,51.15727095572737,0 -0.1715210477305729,51.15725539679869,0 -0.1714801478840633,51.15723903674076,0 -0.1714373072340358,51.15721921666218,0 -0.1714149030208811,51.15720266628021,0 -0.1714003100313144,51.15718118651237,0 -0.171391363905814,51.15715937172792,0 -0.1712291521760656,51.15669716555698,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
