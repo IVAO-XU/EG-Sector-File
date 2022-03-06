@@ -19,6 +19,7 @@ CTA;#47647E;
 TMA;#47647E;
 KK_TAXI_BLUE;#0000FF;
 KK_TAXI_ORANGE;#FF9E15;
+foreignatc;#213546;
 
 [ATC]
 F;egpx\egpx-atc.atc
@@ -66,9 +67,6 @@ F;eg-nav\egxx-low-sectors.artcc
 
 [ARTCC]
 F;eg-nav\ctr-cta-airport.airspace
-
-[DEFINE]
-F;EGXX.def
 
 [GEO]
 F;eg-nav\egxx-coastline.geo
