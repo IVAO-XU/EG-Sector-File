@@ -20,6 +20,21 @@
 Any member of the community may contribute this sector file so long as:
 + The data provided is factual and realistic.
 
+### Adding airports layouts ("SMRs")
+Ground layouts can be created by anyone simply by using Google Earth's polygon and line tools.
+
+Create each feature of the airport individually in the following order, first = lowest:
+
++ Boundary/grass outline - emcompass the entire airfield with this
++ Aprons
++ Parking positions
++ Taxiways
++ Runways
++ Taxiway lines
++ Stop bar lines
+
+You do not need to add taxiway or holding point labels.
+
 ### Contribution Agreement
 By contributing to this repository you agree that the ownership of any alteration(s) and/or addition(s) you make are transferred to IVAO United Kingdom & Ireland in its entirety and cannot be recalled.
 
@@ -27,9 +42,9 @@ By contributing to this repository you agree that the ownership of any alteratio
 In no particular order...
 
 1) [x] <strike>Find lower resolution GEO boundary</strike>
-2) [ ] [Change coordinate format to Decimal format][i1]
+2) [ ] Change coordinate format to Decimal format
 3) [x] <strike>Add airway structures</strike>
-4) [ ] [Use poly fill/line to show airway/CAS structure for airspace when an area unit is online][i2]
+4) [x] <strike>Use poly fill/line to show airway/CAS structure for airspace when an area unit is online</strike>
 5) [ ] [Add poly fill/line to show when external area units are online][i3]
 6) [ ] [Fix ATC high/low sector boundaries to match up perfectly][i4]
 7) [ ] [Add gate size information to gates file][i5] (https://wiki.ivao.aero/en/home/devops/manuals/SectorFile_Definition#gates-gates-information)
@@ -38,10 +53,3 @@ In no particular order...
 10) [ ] Alter Alderney island so that it is higher fidelity
 
 More issues, changes and improvements can be found in the issues section.
-
-[i1]: https://github.com/IVAO-XU/EG-Sector-File/issues/1
-[i2]: https://github.com/IVAO-XU/EG-Sector-File/issues/2
-[i3]: https://github.com/IVAO-XU/EG-Sector-File/issues/3
-[i4]: https://github.com/IVAO-XU/EG-Sector-File/issues/4
-[i5]: https://github.com/IVAO-XU/EG-Sector-File/issues/5
-[i6]: https://github.com/IVAO-XU/EG-Sector-File/issues/6
