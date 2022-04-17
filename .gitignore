@@ -1,2 +1,6 @@
 
 .DS_Store
+Include/egxx/eg-documentation/EGSS.plf
+Include/egxx/eg-documentation/EGGW.plf
+Include/egxx/eg-documentation/egss-eggw-buffer.artcc
+Include/egxx/eg-documentation/egss-eggw-gate.artcc
