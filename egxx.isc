@@ -9,7 +9,7 @@ W000.27.41.000
 60
 37.4
 -0.1
-egxx;egxx\eg-nav;egxx\eg-military\airfields-layouts;egxx\eg-military\gates;egxx\eg-military\sids;egxx\eg-military\stars;egxx\eg-military\taxiways;egxx\egpx;egxx\egpx\airfield-layouts;egxx\egpx\sids;egxx\egpx\stars;egxx\egpx\taxiways;egxx\egpx\visual;egxx\egpx\gates;egxx\egtt;egxx\egtt\airfield-layouts;egxx\egtt\gates;egxx\egtt\sids;egxx\egtt\stars;egxx\egtt\taxiways;egxx\egtt\visual;egxx\egtt\rma
+egxx;egxx\eg-documentation;egxx\eg-nav;egxx\eg-military\airfields-layouts;egxx\eg-military\gates;egxx\eg-military\sids;egxx\eg-military\stars;egxx\eg-military\taxiways;egxx\egpx;egxx\egpx\airfield-layouts;egxx\egpx\sids;egxx\egpx\stars;egxx\egpx\taxiways;egxx\egpx\visual;egxx\egpx\gates;egxx\egtt;egxx\egtt\airfield-layouts;egxx\egtt\gates;egxx\egtt\sids;egxx\egtt\stars;egxx\egtt\taxiways;egxx\egtt\visual;egxx\egtt\rma
 
 [DEFINE]
 TRAS;#003d1240;
@@ -59,11 +59,13 @@ F;eg-nav\egxx-high-airways.hairway
 
 [ARTCC HIGH]
 //HS button aka high sectors
-F;eg-nav\egxx-high-sectors.artcc
+F;eg-documentation\egss-eggw-gate.artcc
+//F;eg-nav\egxx-high-sectors.artcc
 
 [ARTCC LOW]
 //LS button aka low sectors
-F;eg-nav\egxx-low-sectors.artcc
+F;eg-documentation\egss-eggw-buffer.artcc
+//F;eg-nav\egxx-low-sectors.artcc
 
 [ARTCC]
 F;eg-nav\ctr-cta-airport.airspace
@@ -134,6 +136,9 @@ F;egtt\airfield-layouts\EGSU.geo
 F;egtt\airfield-layouts\EGTE.geo
 
 [FILLCOLOR]
+F;eg-documentation\EGGW.plf
+F;eg-documentation\EGSS.plf
+F;eg-atc\egpx-m-ctr.plf
 F;eg-atc\egtt-c-ctr.plf
 F;eg-atc\egtt-n-ctr.plf
 F;eg-atc\egtt-s-ctr.plf
