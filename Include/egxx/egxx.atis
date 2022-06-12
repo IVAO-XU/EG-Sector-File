@@ -1,0 +1,1 @@
+{ "region" : "default", "structure" : "[STATION_NAME] information [ATIS_LETTER] time [ATIS_TIME] automatic arrival runway [ARR] departure runway [DEP] transition level [TL] [METAR] acknowledge receipt of information [ATIS_LETTER] [REMARK] on first contact" }
