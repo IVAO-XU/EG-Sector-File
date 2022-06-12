@@ -21,6 +21,9 @@ KK_TAXI_BLUE;#0000FF;
 KK_TAXI_ORANGE;#FF9E15;
 foreignatc;#213546;
 
+[ATIS]
+F;egxx.atis
+
 [ATC]
 F;egpx\egpx-atc.atc
 F;egtt\egtt-atc.atc
@@ -138,8 +141,6 @@ F;egtt\airfield-layouts\EGSU.geo
 F;egtt\airfield-layouts\EGTE.geo
 
 [FILLCOLOR]
-F;eg-documentation\EGGW.plf
-F;eg-documentation\EGSS.plf
 F;eg-atc\egpx-m-ctr.plf
 F;eg-atc\egtt-c-ctr.plf
 F;eg-atc\egtt-n-ctr.plf
