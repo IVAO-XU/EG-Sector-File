@@ -45,11 +45,11 @@ In no particular order...
 2) [ ] Change coordinate format to Decimal format
 3) [x] <strike>Add airway structures</strike>
 4) [x] <strike>Use poly fill/line to show airway/CAS structure for airspace when an area unit is online</strike>
-5) [ ] [Add poly fill/line to show when external area units are online][i3]
-6) [ ] [Fix ATC high/low sector boundaries to match up perfectly][i4]
+5) [x] <strike>[Add poly fill/line to show when external area units are online][i3]
+6) [x] <strike>[Fix ATC high/low sector boundaries to match up perfectly][i4]
 7) [ ] [Add gate size information to gates file][i5] (https://wiki.ivao.aero/en/home/devops/manuals/SectorFile_Definition#gates-gates-information)
 8) [x] <strike>[High and low airways are missing points outside the UK FIR][i6]</strike>
 9) [x] <strike>Add VFR reporting points on a per-airport basis</strike>
-10) [ ] Alter Alderney island so that it is higher fidelity
+10) [x] <strike>Alter Alderney island so that it is higher fidelity
 
 More issues, changes and improvements can be found in the issues section.
