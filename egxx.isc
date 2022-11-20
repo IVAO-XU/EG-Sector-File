@@ -70,6 +70,7 @@ F;eg-nav\egxx-low-sectors.artcc
 
 [ARTCC]
 F;eg-nav\ctr-cta-airport.airspace
+F;eg-nav\egxx-military-matz-atz.airspace
 
 [GEO]
 F;eg-nav\egxx-coastline.geo
