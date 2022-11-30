@@ -27,6 +27,7 @@ F;egxx.atis
 [ATC]
 F;egpx\egpx-atc.atc
 F;egtt\egtt-atc.atc
+F;eg-military\eg-military.atc
 
 [AIRPORT]
 F;eg-nav\egxx-apt.apt
@@ -70,6 +71,7 @@ F;eg-nav\egxx-low-sectors.artcc
 
 [ARTCC]
 F;eg-nav\ctr-cta-airport.airspace
+F;eg-nav\egxx-military-matz-atz.airspace
 
 [GEO]
 F;eg-nav\egxx-coastline.geo
