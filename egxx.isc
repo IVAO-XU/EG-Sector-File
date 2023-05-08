@@ -63,21 +63,16 @@ F;eg-nav\egxx-high-airways.hairway
 
 [ARTCC HIGH]
 //HS button aka high sectors
-F;eg-nav\egxx-high-sectors.artcc
 F;eg-nav\egxx.artcc
 
 [ARTCC LOW]
 //LS button aka low sectors
 F;eg-nav\ctr-cta-airport.airspace
-//F;eg-nav\egxx-low-sectors.artcc
 F;eg-nav\egxx-military-matz-atz.airspace
-F;eg-nav\egtl.artcc
 
 [ARTCC]
-//F;eg-nav\ctr-cta-airport.airspace
 F;eg-nav\egxx-high-sectors.artcc
 F;eg-nav\egxx-low-sectors.artcc
-//F;eg-nav\egxx-military-matz-atz.airspace
 
 [GEO]
 F;eg-nav\egxx-coastline.geo
