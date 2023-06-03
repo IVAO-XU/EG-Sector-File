@@ -149,6 +149,7 @@ F;egpx\airfield-layouts\EGPE.geo
 F;egpx\airfield-layouts\EGPB.geo
 F;egtt\airfield-layouts\EGFE.geo
 F;egtt\airfield-layouts\EGKA.geo
+F;egtt\airfield-layouts\EGBO.geo
 
 [FILLCOLOR]
 F;eg-atc\egpx-m-ctr.plf
@@ -157,6 +158,7 @@ F;eg-atc\egtt-n-ctr.plf
 F;eg-atc\egtt-s-ctr.plf
 F;eg-atc\egtt-w-ctr.plf
 F;eg-atc\egpx-ctr.plf
+F;egtt\airfield-layouts\EGBO.plf
 F;egtt\airfield-layouts\EGKA.plf
 F;egpx\airfield-layouts\EGPR.plf
 F;eg-military\airfield-layouts\EGOV.plf
@@ -168,3 +170,6 @@ F;eg-military\airfield-layouts\EGXC.plf
 F;eg-military\airfield-layouts\EGYD.plf
 F;eg-military\airfield-layouts\EGYM.plf
 F;eg-atc\eg-foreign-atc.plf
+
+[PROFILE]
+F;egxx.cpr
