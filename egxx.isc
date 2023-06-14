@@ -63,16 +63,21 @@ F;eg-nav\egxx-high-airways.hairway
 
 [ARTCC HIGH]
 //HS button aka high sectors
+F;eg-nav\egxx-high-sectors.artcc
 F;eg-nav\egxx.artcc
 
 [ARTCC LOW]
 //LS button aka low sectors
 F;eg-nav\ctr-cta-airport.airspace
+//F;eg-nav\egxx-low-sectors.artcc
 F;eg-nav\egxx-military-matz-atz.airspace
+F;eg-nav\egtl.artcc
 
 [ARTCC]
+//F;eg-nav\ctr-cta-airport.airspace
 F;eg-nav\egxx-high-sectors.artcc
 F;eg-nav\egxx-low-sectors.artcc
+//F;eg-nav\egxx-military-matz-atz.airspace
 
 [GEO]
 F;eg-nav\egxx-coastline.geo
@@ -148,7 +153,7 @@ F;egtt\airfield-layouts\EGCJ.geo
 F;egpx\airfield-layouts\EGPE.geo
 F;egpx\airfield-layouts\EGPB.geo
 F;egtt\airfield-layouts\EGFE.geo
-F;egtt\airfield-layouts\EGKA.geo
+F;egtt\airfield-layouts\EGNP.geo
 
 [FILLCOLOR]
 F;eg-atc\egpx-m-ctr.plf
@@ -157,8 +162,8 @@ F;eg-atc\egtt-n-ctr.plf
 F;eg-atc\egtt-s-ctr.plf
 F;eg-atc\egtt-w-ctr.plf
 F;eg-atc\egpx-ctr.plf
-F;egtt\airfield-layouts\EGKA.plf
 F;egpx\airfield-layouts\EGPR.plf
+F;egtt\airfield-layouts\EGNP.plf
 F;eg-military\airfield-layouts\EGOV.plf
 F;eg-military\airfield-layouts\EGQK.plf
 F;eg-military\airfield-layouts\EGQS.plf
