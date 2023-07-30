@@ -80,8 +80,8 @@ F;eg-nav\egxx-low-sectors.artcc
 F;eg-nav\egxx-coastline.geo
 //F;eg-nav\egxx-tma-cta-ctr.geo
 F;eg-nav\egxx-danger-areas.danger
-F;eg-nav\egxx-prohibited-areas.prohibit
-F;eg-nav\egxx-restricted-areas.restrict
+F;eg-nav\egxx-prohibited-areas.prohibited
+F;eg-nav\egxx-restricted-areas.restricted
 F;eg-nav\egxx-military-training-areas.geo
 F;eg-nav\egxx-military-refuelling-areas.geo
 F;eg-nav\egxx-military-radar-corridors.geo
@@ -118,6 +118,7 @@ F;egtt\airfield-layouts\EGTR.geo
 F;eg-military\airfield-layouts\EGOV.geo
 F;eg-military\airfield-layouts\EGQK.geo
 F;eg-military\airfield-layouts\EGQS.geo
+F;eg-military\airfield-layouts\EGVA.geo
 F;eg-military\airfield-layouts\EGVN.geo
 F;eg-military\airfield-layouts\EGWU.geo
 F;eg-military\airfield-layouts\EGXC.geo
@@ -169,6 +170,7 @@ F;egpx\airfield-layouts\EGPR.plf
 F;eg-military\airfield-layouts\EGOV.plf
 F;eg-military\airfield-layouts\EGQK.plf
 F;eg-military\airfield-layouts\EGQS.plf
+F;eg-military\airfield-layouts\EGVA.plf
 F;eg-military\airfield-layouts\EGVN.plf
 F;eg-military\airfield-layouts\EGWU.plf
 F;eg-military\airfield-layouts\EGXC.plf
