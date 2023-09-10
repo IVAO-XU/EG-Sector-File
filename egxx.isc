@@ -20,6 +20,7 @@ TMA;#323232;
 KK_TAXI_BLUE;#0000FF;
 KK_TAXI_ORANGE;#FF9E15;
 foreignatc;#213546;
+APRON;#464646;
 
 [ATIS]
 F;egxx.atis
@@ -74,7 +75,6 @@ F;eg-nav\egxx-military-matz-atz.airspace
 [ARTCC]
 F;eg-nav\egxx-high-sectors.artcc
 F;eg-nav\egxx-low-sectors.artcc
-
 
 [GEO]
 F;eg-nav\egxx-coastline.geo
