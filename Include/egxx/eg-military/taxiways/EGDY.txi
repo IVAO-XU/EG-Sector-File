@@ -1,0 +1,20 @@
+//////////////////////////////////////////
+//        IVAO XU COMMUNITY Sector      //
+// Developed by the IVAO XU community   //
+//////////////////////////////////////////
+
+//Taxiways
+Northern Twy;EGDY;N051.00.31.464;W002.39.19.239;
+Southern Twy;EGDY;N051.00.22.816;W002.39.17.646;
+Western Twy;EGDY;N051.00.21.372;W002.38.40.322;
+Historic Twy;EGDY;N051.00.14.932;W002.38.23.871;
+ATC Twy;EGDY;N051.00.21.545;W002.38.17.925;
+22-26 Twy;EGDY;N051.00.42.156;W002.37.49.184;
+Museum Twy;EGDY;N051.00.51.288;W002.38.08.485;
+North-South Twy;EGDY;N051.00.42.854;W002.38.16.715;
+PAR Crosscut;EGDY;N051.00.32.657;W002.38.35.527;
+SAMOS Twy;EGDY;N051.00.26.406;W002.38.32.596;
+
+//Holding points
+Hold 1;EGDY;N051.00.26.422;W002.37.53.151;
+Hold 2;EGDY;N051.00.28.723;W002.37.48.830;
