@@ -8,7 +8,7 @@ N051.28.39.000
 W000.27.41.000
 60
 37.4
--0.1
+0.2
 egxx;egxx\eg-documentation;egxx\eg-nav;egxx\eg-military\airfields-layouts;egxx\eg-military\gates;egxx\eg-military\sids;egxx\eg-military\stars;egxx\eg-military\taxiways;egxx\egpx;egxx\egpx\airfield-layouts;egxx\egpx\sids;egxx\egpx\stars;egxx\egpx\taxiways;egxx\egpx\visual;egxx\egpx\gates;egxx\egpx\rma;egxx\egtt;egxx\egtt\airfield-layouts;egxx\egtt\gates;egxx\egtt\sids;egxx\egtt\stars;egxx\egtt\taxiways;egxx\egtt\visual;egxx\egtt\rma
 
 [DEFINE]
@@ -34,9 +34,6 @@ foreignatc;#0C0C0C;
 localatc;#0C0C0C;
 radaratc;#030303;
 COAST;#252E39;
-
-[ATIS]
-F;egxx.atis
 
 [ATC]
 F;egpx\egpx-atc.atc
@@ -127,13 +124,14 @@ F;egtt\airfield-layouts\EGNM.geo
 F;egpx\airfield-layouts\EGAA.geo
 F;egpx\airfield-layouts\EGAC.geo
 F;egtt\airfield-layouts\EGMC.geo
+F;egtt\airfield-layouts\EGMD.ge0
 F;egtt\airfield-layouts\EGCK.geo
 F;egtt\airfield-layouts\EGCB.geo
 F;egtt\airfield-layouts\EGTR.geo
+F;egtt\airfield-layouts\EGBP.geo
 F;eg-military\airfield-layouts\EGDM.geo
 F;eg-military\airfield-layouts\EGDY.geo
 F;eg-military\airfield-layouts\EGOV.geo
-F;eg-military\airfield-layouts\EGQK.geo
 F;eg-military\airfield-layouts\EGQS.geo
 F;eg-military\airfield-layouts\EGVA.geo
 F;eg-military\airfield-layouts\EGVN.geo
@@ -141,6 +139,9 @@ F;eg-military\airfield-layouts\EGWU.geo
 F;eg-military\airfield-layouts\EGXC.geo
 F;eg-military\airfield-layouts\EGYD.geo
 F;eg-military\airfield-layouts\EGYM.geo
+F;eg-military\airfield-layouts\EGUB.geo
+F;eg-military\airfield-layouts\EGXT.geo
+F;eg-military\airfield-layouts\EGXW.geo
 F;egpx\airfield-layouts\EGAB.geo
 F;egpx\airfield-layouts\EGAD.geo
 F;egpx\airfield-layouts\EGAE.geo
@@ -180,7 +181,7 @@ F;egtt\airfield-layouts\EGFH.geo
 F;egtt\airfield-layouts\EGFA.geo
 F;egtt\airfield-layouts\EGBW.geo
 F;egtt\airfield-layouts\EGLW.geo
-F;egtt\airfield-layouts\EGMD.geo
+F;egtt\airfield-layouts\EGBK.geo
 
 [FILLCOLOR]
 F;eg-atc\coast.plf
@@ -197,10 +198,10 @@ F;egtt\airfield-layouts\EGKA.plf
 F;egtt\airfield-layouts\EGCC.plf
 F;egpx\airfield-layouts\EGPC.plf
 F;egpx\airfield-layouts\EGPR.plf
+F;egtt\airfield-layouts\EGBP.plf
 F;eg-military\airfield-layouts\EGDM.plf
 F;eg-military\airfield-layouts\EGDY.plf
 F;eg-military\airfield-layouts\EGOV.plf
-F;eg-military\airfield-layouts\EGQK.plf
 F;eg-military\airfield-layouts\EGQS.plf
 F;eg-military\airfield-layouts\EGVA.plf
 F;eg-military\airfield-layouts\EGVN.plf
@@ -208,6 +209,9 @@ F;eg-military\airfield-layouts\EGWU.plf
 F;eg-military\airfield-layouts\EGXC.plf
 F;eg-military\airfield-layouts\EGYD.plf
 F;eg-military\airfield-layouts\EGYM.plf
+F;eg-military\airfield-layouts\EGUB.plf
+F;eg-military\airfield-layouts\EGXT.plf
+F;eg-military\airfield-layouts\EGXW.plf
 
 [MVAENR]
 F;eg-nav\00DB.mva
