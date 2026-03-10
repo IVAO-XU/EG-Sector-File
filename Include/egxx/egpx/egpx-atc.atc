@@ -71,9 +71,9 @@ EGPT_AG_TWR;121.080;;;;;;ATIS\noatis.atis;
 EGPU_AG_TWR;122.705;;;;;;ATIS\noatis.atis;
 
 //AFIS airfields
-EGEC_I_TWR;125.905;EGPX;;;;;;ATIS\noatis.atis;
-EGPR_I_TWR;118.080;EGPX;;;;;;ATIS\noatis.atis;
-EGEO_I_TWR;118.055;EGPX;;;;;;ATIS\noatis.atis;
+EGEC_I_TWR;125.905;EGPX;;;;;ATIS\noatis.atis;
+EGPR_I_TWR;118.080;EGPX;;;;;ATIS\noatis.atis;
+EGEO_I_TWR;118.055;EGPX;;;;;ATIS\noatis.atis;
 
 //Area positions
 EGPX_CTR;124.500;EGPX EGGX BIRD EISN ENOR ENOS EKDK EHAA EGTT_CTR EGTT_N_CTR EGAA EGAC EGPD EGPF EGPH EGPK EGNT;;;;egpx.loa;ATIS\PXarea.atis;
