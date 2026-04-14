@@ -61,6 +61,7 @@ EGGW_TWR;132.555;EGGW EGTL_NE_CTR EGTL_CTR EGTT_S_CTR EGTT_CTR;;ATIS\voicesingle
 EGGW_APP;129.550;EGGW EGTL_NE_CTR EGTL_CTR EGTT_S_CTR EGTT_CTR;;ATIS\voicesingle.atis;1;;ATIS\singlerwy.atis;
 EGGW_F_APP;128.750;EGGW;;ATIS\voicesingle.atis;1;;ATIS\singlerwy.atis;
 EGKB_TWR;134.805;EGKB EGLC_APP EGTL_SE_CTR EGTL_CTR EGTT_S_CTR EGTT_CTR;;ATIS\voicesingle.atis;1;;ATIS\singlerwy.atis;
+EGKB_GND;121.630;EGKB EGLC_APP EGTL_SE_CTR EGTL_CTR EGTT_S_CTR EGTT_CTR;;ATIS\voicesingle.atis;1;;ATIS\singlerwy.atis;
 EGKB_APP;129.405;EGKB EGLC_APP EGTL_SE_CTR EGTL_CTR EGTT_S_CTR EGTT_CTR;;ATIS\voicesingle.atis;1;;ATIS\singlerwy.atis;
 EGKK_DEL;121.955;EGKK;;ATIS\voicesingle.atis;0;;ATIS\singlerwy.atis;
 EGKK_N_GND;121.540;EGKK;;ATIS\voicesingle.atis;0;;ATIS\singlerwy.atis;
