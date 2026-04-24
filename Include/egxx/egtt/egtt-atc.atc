@@ -41,9 +41,9 @@ EGFF_APP;119.155;EGFF EGGD EGTT_W_CTR EGTT_CTR;;ATIS\voicesingle.atis;1;;ATIS\si
 EGFF_F_APP;125.855;EGFF;;ATIS\voicesingle.atis;1;;ATIS\singlerwy.atis;
 EGGD_DEL;121.930;EGGD;;ATIS\voicesingle.atis;1;;ATIS\singlerwy.atis;
 EGGD_GND;121.930;EGGD;;ATIS\voicesingle.atis;1;;ATIS\singlerwy.atis;
-EGGD_TWR;133.850;EGGD EGTT_W_CTR EGTT_CTR;;ATIS\voicesingle.atis;1;;ATIS\singlerwy.atis;
+EGGD_TWR;133.855;EGGD EGTT_W_CTR EGTT_CTR;;ATIS\voicesingle.atis;1;;ATIS\singlerwy.atis;
 EGGD_F_APP;136.080;EGGD EGFF EGTT_W_CTR EGTT_CTR;;ATIS\voicesingle.atis;1;;ATIS\singlerwy.atis;
-EGGD_APP;125.650;EGGD EGFF EGTT_W_CTR EGTT_CTR;;ATIS\voicesingle.atis;1;;ATIS\singlerwy.atis;
+EGGD_APP;125.655;EGGD EGFF EGTT_W_CTR EGTT_CTR;;ATIS\voicesingle.atis;1;;ATIS\singlerwy.atis;
 
 //Solent Group
 EGHH_GND;121.705;EGHH;;ATIS\voicesingle.atis;1;;ATIS\singlerwy.atis;
@@ -62,7 +62,7 @@ EGGW_APP;129.550;EGGW EGTL_NE_CTR EGTL_CTR EGTT_S_CTR EGTT_CTR;;ATIS\voicesingle
 EGGW_F_APP;128.750;EGGW;;ATIS\voicesingle.atis;1;;ATIS\singlerwy.atis;
 EGKB_TWR;134.805;EGKB EGLC_APP EGTL_SE_CTR EGTL_CTR EGTT_S_CTR EGTT_CTR;;ATIS\voicesingle.atis;1;;ATIS\singlerwy.atis;
 EGKB_GND;121.630;EGKB EGLC_APP EGTL_SE_CTR EGTL_CTR EGTT_S_CTR EGTT_CTR;;ATIS\voicesingle.atis;1;;ATIS\singlerwy.atis;
-EGKB_APP;129.405;EGKB EGLC_APP EGTL_SE_CTR EGTL_CTR EGTT_S_CTR EGTT_CTR;;ATIS\voicesingle.atis;1;;ATIS\singlerwy.atis;
+EGKB_APP;134.805;EGKB EGLC_APP EGTL_SE_CTR EGTL_CTR EGTT_S_CTR EGTT_CTR;;ATIS\voicesingle.atis;1;;ATIS\singlerwy.atis;
 EGKK_DEL;121.955;EGKK;;ATIS\voicesingle.atis;0;;ATIS\singlerwy.atis;
 EGKK_N_GND;121.540;EGKK;;ATIS\voicesingle.atis;0;;ATIS\singlerwy.atis;
 EGKK_S_GND;121.805;EGKK;;ATIS\voicesingle.atis;0;;ATIS\singlerwy.atis;
@@ -79,7 +79,6 @@ EGLF_APP;125.250;EGLF EGTL_SW_CTR EGTL_CTR EGTT_S_CTR EGTT_CTR;;ATIS\voicesingle
 EGLF_RSN_APP;132.800;;;;1;;ATIS\noatis.atis;
 EGLF_RSW_APP;125.250;;;;1;;ATIS\noatis.atis;
 EGLF_RSE_APP;123.225;;;;1;;ATIS\noatis.atis;
-EGLF_TWR;122.780;EGLF EGTL_SW_CTR EGTL_CTR EGTT_S_CTR EGTT_CTR;;ATIS\voicesingle.atis;1;;ATIS\singlerwy.atis;
 EGLL_DEL;121.980;EGLL;;ATIS\voicedual.atis;0;;ATIS\dualrwy.atis;
 EGLL_1_GND;121.905;EGLL;;ATIS\voicedual.atis;0;;ATIS\dualrwy.atis;
 EGLL_2_GND;121.705;EGLL;;ATIS\voicedual.atis;0;;ATIS\dualrwy.atis;
