@@ -8,7 +8,7 @@ EGBB_DEL;121.930;EGBB;;ATIS\voicesingle.atis;0;;ATIS\singlerwy.atis;
 EGBB_GND;121.805;EGBB;;ATIS\voicesingle.atis;0;;ATIS\singlerwy.atis;
 EGBB_TWR;118.305;EGBB EGTL_CTR EGTL_NE_CTR EGTT_CTR EGTT_C_CTR EGTT_S_CTR EGPX_M_CTR;;ATIS\voicesingle.atis;0;;ATIS\singlerwy.atis;
 EGBB_F_APP;131.005;EGBB;;ATIS\voicesingle.atis;0;;ATIS\singlerwy.atis;
-EGBB_APP;123.980;EGBB EGBE EGTL_CTR EGTL_NE_CTR EGTT_CTR EGTT_C_CTR EGTT_S_CTR EGPX_M_CTR;;ATIS\voicesingle.atis;0;;ATIS\singlerwy.atis;
+EGBB_APP;123.980;EGBB EGTL_CTR EGTL_NE_CTR EGTT_CTR EGTT_C_CTR EGTT_S_CTR EGPX_M_CTR;;ATIS\voicesingle.atis;0;;ATIS\singlerwy.atis;
 EGNX_GND;121.905;EGNX;;ATIS\voicesingle.atis;1;;ATIS\singlerwy.atis;
 EGNX_TWR;124.005;EGNX EGTL_CTR EGTL_NE_CTR EGTT_CTR EGTT_C_CTR EGTT_S_CTR EGPX_M_CTR;;ATIS\voicesingle.atis;1;;ATIS\singlerwy.atis;
 EGNX_APP;134.180;EGNX EGTL_CTR EGTL_NE_CTR EGTT_CTR EGTT_C_CTR EGTT_S_CTR EGPX_M_CTR;;ATIS\voicesingle.atis;1;;ATIS\singlerwy.atis;
@@ -160,7 +160,6 @@ EGFE_AG_TWR;123.605;;ATIS\voicesingle.atis;;1;;ATIS\singlerwy.atis;
 EGHA_AG_TWR;122.710;;;;1;;ATIS\noatis.atis;
 
 //AFIS airfields
-EGBE_I_TWR;123.830;;;;1;;ATIS\noatis.atis;
 EGBG_I_TWR;122.130;;;;1;;ATIS\noatis.atis;
 EGBO_I_TWR;123.005;;;;1;;ATIS\noatis.atis;
 EGBP_I_TWR;118.430;;;;1;;ATIS\noatis.atis;
