@@ -9,12 +9,11 @@ EGNS_APP;135.905;EGNS EGPX_L2_CTR EGPX_DX_CTR EGPX_CTR;ATIS\voicesingle.atis;;;;
 
 // Belfast Group
 EGAA_GND;121.755;EGAA;ATIS\voicesingle.atis;;;;ATIS\singlerwy.atis;
-EGAA_TWR;118.300;EGAA EGPX_L2_CTR EGPX_DX_CTR EGPX_U1_CTR EGPX_CTR;ATIS\voicesingle.atis;;;;ATIS\singlerwy.atis;
-EGAA_APP;133.125;EGAA EGAC EGPX_L2_CTR EGPX_DX_CTR EGPX_U1_CTR EGPX_CTR;ATIS\voicesingle.atis;;;;ATIS\singlerwy.atis;
+EGAA_TWR;118.305;EGAA EGPX_L2_CTR EGPX_DX_CTR EGPX_U1_CTR EGPX_CTR;ATIS\voicesingle.atis;;;;ATIS\singlerwy.atis;
+EGAA_APP;133.110;EGAA EGAC EGPX_L2_CTR EGPX_DX_CTR EGPX_U1_CTR EGPX_CTR;ATIS\voicesingle.atis;;;;ATIS\singlerwy.atis;
 EGAA_F_APP;120.905;EGAA EGAC;ATIS\voicesingle.atis;;;;ATIS\singlerwy.atis;
 EGAC_TWR;122.830;EGAA EGAC EGPX_L2_CTR EGPX_DX_CTR EGPX_U1_CTR EGPX_CTR;ATIS\voicesingle.atis;;;;ATIS\singlerwy.atis;
-EGAC_APP;134.800;EGAA EGAC EGPX_L2_CTR EGPX_DX_CTR EGPX_U1_CTR EGPX_CTR;ATIS\voicesingle.atis;;;;ATIS\singlerwy.atis;
-EGAC_F_APP;124.800;EGAA EGAC;ATIS\voicesingle.atis;;;;ATIS\singlerwy.atis;
+EGAC_APP;134.805;EGAA EGAC EGPX_L2_CTR EGPX_DX_CTR EGPX_U1_CTR EGPX_CTR;ATIS\voicesingle.atis;;;;ATIS\singlerwy.atis;
 EGAE_TWR;134.155;EGAA EGPX_L2_CTR EGPX_DX_CTR EGPX_U1_CTR EGPX_CTR EISN_CTR;ATIS\voicesingle.atis;;;;ATIS\singlerwy.atis;
 EGAE_APP;123.625;EGAA EGPX_L2_CTR EGPX_DX_CTR EGPX_U1_CTR EGPX_CTR EISN_CTR;ATIS\voicesingle.atis;;;;ATIS\singlerwy.atis;
 
