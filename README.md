@@ -30,14 +30,14 @@ Create each feature of the airport individually in the following order, first = 
 + Runways
 + Aprons
 + Buildings
-These Polygon drawings create the TFL file
+Polygon drawings create the PLF file
 
 + Stands lines
 + Taxiway lines
 + Stop bar lines
-The create the GEO file
+Create the GEO file
 
-You do not need to add taxiway or holding point labels.
+You do not need to add taxiway or holding point labels as these are stored in separate files
 
 ### Contribution Agreement
-By contributing to this repository you agree that the ownership of any alteration(s) and/or addition(s) you make are transferred to IVAO United Kingdom & Ireland in its entirety and cannot be recalled.
+By contributing to this repository you authorise that the ownership of any ammendment(s) and/or addition(s), become the intellectual property of IVAO United Kingdom & Ireland MCD.
