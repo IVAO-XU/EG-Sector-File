@@ -141,37 +141,6 @@ EGTE_TWR;119.805;;ATIS\voicesingle.atis;;1;;ATIS\singlerwy.atis;
 EGTE_APP;128.980;;ATIS\voicesingle.atis;;1;;ATIS\singlerwy.atis;
 EGTE_R_APP;123.580;;ATIS\voicesingle.atis;;1;;ATIS\singlerwy.atis;
 
-//AG airfields
-EG04_AG_TWR;129.805;;;;1;;ATIS\noatis.atis;
-EG20_AG_TWR;129.900;;;;1;;ATIS\noatis.atis;
-EG22_AG_TWR;118.130;;;;1;;ATIS\noatis.atis;
-EG32_AG_TWR;123.180;;;;1;;ATIS\noatis.atis;
-EGBD_AG_TWR;118.350;;;;1;;ATIS\noatis.atis;
-EGBF_AG_TWR;119.030;;;;1;;ATIS\noatis.atis;
-EGBK_AG_TWR;122.705;EGNX_APP;;;1;;ATIS\noatis.atis;
-EGBM_AG_TWR;124.080;;;;1;;ATIS\noatis.atis;
-EGBN_AG_TWR;134.880;;;;1;;ATIS\noatis.atis;
-EGBT_AG_TWR;122.180;;;;1;;ATIS\noatis.atis;
-EGCK_AG_TWR;122.255;;;;1;;ATIS\noatis.atis;
-EGCM_AG_TWR;120.710;;;;1;;ATIS\noatis.atis;
-EGCV_AG_TWR;122.455;;;;1;;ATIS\noatis.atis;
-EGCW_AG_TWR;128.005;;;;1;;ATIS\noatis.atis;
-EGFE_AG_TWR;123.605;;ATIS\voicesingle.atis;;1;;ATIS\singlerwy.atis;
-EGHA_AG_TWR;122.710;;;;1;;ATIS\noatis.atis;
-
-//AFIS airfields
-EGBG_I_TWR;122.130;;;;1;;ATIS\noatis.atis;
-EGBO_I_TWR;123.005;;;;1;;ATIS\noatis.atis;
-EGBP_I_TWR;118.430;;;;1;;ATIS\noatis.atis;
-EGBS_I_TWR;118.155;;;;1;;ATIS\noatis.atis;
-EGBW_I_TWR;124.030;;;;1;;ATIS\noatis.atis;
-EGCB_I_TWR;120.255;EGCC_S_APP EGCC_N_APP EGGP_APP;;;1;;ATIS\noatis.atis;
-EGFA_I_TWR;122.155;;;;1;;ATIS\noatis.atis;
-EGHF_I_TWR;118.925;;;;1;;ATIS\noatis.atis;
-EGSU_I_TWR;122.080;;;;1;;ATIS\noatis.atis;
-EGHR_I_TWR;122.455;;;;1;;ATIS\noatis.atis;
-EGTR_I_TWR;122.405;EGTT EGLF;;;1;;ATIS\noatis.atis;
-
 //Area positions
 EGTL_CTR;124.930;EGBB EGNX EGGW EGSS EGLC EGLL EGKK EGKB EGVN EGTT_CTR EGTT_S_CTR EBOS_APP;;;1;;ATIS\TTarea.atis;
 EGTL_N_CTR;121.280;EGBB EGNX EGGW EGSS EGLC EGLL EGTT EGTL;;;1;;ATIS\TTarea.atis;

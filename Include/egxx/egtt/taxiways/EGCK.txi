@@ -2,8 +2,3 @@
 ///       IVAO XU COMMUNITY Sector     ///
 /// Developed by the IVAO XU community ///
 //////////////////////////////////////////
-
-//Holding Points
-A;EGCK;N053.05.58.813;W004.20.29.509;
-B;EGCK;N053.06.06.468;W004.20.07.863;
-C;EGCK;N053.06.10.398;W004.19.49.066;

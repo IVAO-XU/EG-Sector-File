@@ -2,8 +2,3 @@
 ///       IVAO XU COMMUNITY Sector     ///
 /// Developed by the IVAO XU community ///
 //////////////////////////////////////////
-
-//Stands
-1;EGPG;N055.58.30.780;W003.58.10.940;
-2;EGPG;N055.58.30.390;W003.58.10.750;
-3;EGPG;N055.58.30.160;W003.58.10.230;
