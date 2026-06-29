@@ -39,8 +39,8 @@ EGPH_GND;121.755;EGPH;ATIS\voicesingle.atis;;;;ATIS\singlerwy.atis;
 EGPH_TWR;118.705;EGPH EGPX_DX_CTR EGPX_CTR;ATIS\voicesingle.atis;;;;ATIS\singlerwy.atis;
 EGPH_APP;121.205;EGPH EGPX_DX_CTR EGPX_CTR;ATIS\voicesingle.atis;;;;ATIS\singlerwy.atis;
 EGPH_F_APP;128.980;EGPH;ATIS\voicesingle.atis;;;;ATIS\singlerwy.atis;
-EGPK_TWR;118.150;EGPK EGPX_DX_CTR EGPX_CTR;ATIS\voicesingle.atis;;;;ATIS\singlerwy.atis;
-EGPK_APP;129.450;EGPK EGPX_DX_CTR EGPX_CTR;ATIS\voicesingle.atis;;;;ATIS\singlerwy.atis;
+EGPK_TWR;118.155;EGPK EGPX_DX_CTR EGPX_CTR;ATIS\voicesingle.atis;;;;ATIS\singlerwy.atis;
+EGPK_APP;129.455;EGPK EGPX_DX_CTR EGPX_CTR;ATIS\voicesingle.atis;;;;ATIS\singlerwy.atis;
 
 
 //Misc airfields
