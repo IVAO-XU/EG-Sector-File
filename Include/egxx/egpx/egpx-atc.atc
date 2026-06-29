@@ -60,20 +60,6 @@ EGPE_TWR;118.405;EGPX;ATIS\voicesingle.atis;;;;ATIS\singlerwy.atis;
 EGPE_APP;122.605;EGPX;ATIS\voicesingle.atis;;;;ATIS\singlerwy.atis;
 EGPN_APP;122.905;EGPX;ATIS\voicesingle.atis;;;;ATIS\singlerwy.atis;
 
-//AG airfields
-EGAB_AG_TWR;123.205;;;;;;ATIS\noatis.atis;
-EGAD_AG_TWR;128.305;;;;;;ATIS\noatis.atis;
-EGPG_AG_TWR;120.605;;;;;;ATIS\noatis.atis;
-EGPI_AG_TWR;123.155;;;;;;ATIS\noatis.atis;
-EGPJ_AG_TWR;130.455;;;;;;ATIS\noatis.atis;
-EGPT_AG_TWR;121.080;;;;;;ATIS\noatis.atis;
-EGPU_AG_TWR;122.705;;;;;;ATIS\noatis.atis;
-
-//AFIS airfields
-EGEC_I_TWR;125.905;EGPX;;;;;ATIS\noatis.atis;
-EGPR_I_TWR;118.080;EGPX;;;;;ATIS\noatis.atis;
-EGEO_I_TWR;118.055;EGPX;;;;;ATIS\noatis.atis;
-
 //Area positions
 EGPX_CTR;124.500;EGPX EGGX BIRD EISN ENOR ENOS EKDK EHAA EGTT_CTR EGTT_N_CTR EGAA EGAC EGPD EGPF EGPH EGPK EGNT;;;;egpx.loa;ATIS\PXarea.atis;
 EGPX_DX_CTR;135.855;EGPH EGPF EGPK EGAA EGAC EGNS EGNT EGNV EGPD_APP EGPX EGTT_N_CTR EGTT_CTR;;;;egpx.loa;ATIS\PXarea.atis;

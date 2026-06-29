@@ -2,8 +2,3 @@
 ///       IVAO XU COMMUNITY Sector     ///
 /// Developed by the IVAO XU community ///
 //////////////////////////////////////////
-
-// Helicopter entry/exit points
-Heli West;;N052.19.53.020;W000.51.23.390;
-Heli East;;N052.16.13.430;W000.44.19.930;
-Heli Northeast;;N052.19.39.270;W000.41.59.150;
