@@ -1,0 +1,113 @@
+// ─────────────────────────────────────────────────────────────────────────────
+//  XU FLIGHT STRIP - DATALINK PHRASES  (.cdl)
+//
+//  What this unit says over the datalink, as one button each. Aurora ignores
+//  this file; only the flight strip reads it. Keep it with the sector data so
+//  it is reviewed with everything else the division publishes.
+//
+//  A controller working a touchscreen with one hand should not be typing a
+//  clearance at the moment it is needed. Write the sentence once, here, and it
+//  goes out with one press - filled in from the strip it is going to.
+//
+//  Below is exactly what the boards send today. Change the wording your unit
+//  says differently, delete what you never use, and commit it: this file then
+//  REPLACES the built-in set rather than adding to it.
+// ─────────────────────────────────────────────────────────────────────────────
+//
+//  COLUMNS   label ; message ; kind ;
+//
+//    label     what the button says. Short - it is read at a glance.
+//    message   the sentence that is sent.
+//    kind      which part of the datalink it is, and which strips it is for.
+//              Several, in any order, separated by spaces or commas.
+//
+//  THE THREE SYSTEMS. Datalink is three things with three sets of rules, and a
+//  phrase has to say which it is or the board cannot know who may send it:
+//
+//    TELEX   a plain message. Never a substitute for voice. Anybody may send
+//            one, so this is what a phrase is when the column is left empty.
+//    CPDLC   an en-route instruction. Only the units the division has given
+//            CPDLC to, and only above the level it set. Everyone else: voice.
+//    DCL     a departure clearance. Only at the aerodromes the division lists,
+//            by whoever is doing the clearance delivery job.
+//
+//  Who holds each one is entered on Settings, Division - not here. This file
+//  says what the words are; the division says who may say them.
+//
+//  AND WHICH STRIPS. DEP or ARR narrows a phrase to one side of the flight. A
+//  start up approval marked DEP is never offered on an aircraft on final.
+//
+//  There is NO airport column and no station names. What a unit says is the
+//  same sentence everywhere, and the things that change are answered already -
+//  the runway and the wind by the ATIS, who the aircraft goes to next by the
+//  .hof handoff file. Writing "CONTACT SCOTTISH CONTROL 129.225" here would be
+//  the handoff order copied into a second file, to go stale the first time a
+//  sector is rearranged.
+//
+//  Every line ends with a semicolon, the way Aurora's own sector files end
+//  theirs: it is what says the sentence is finished. One line is one message -
+//  there is no continuation character. Line the columns up as neatly as you
+//  like; runs of spaces are collapsed, so the wire gets one.
+//
+//  EVERY MESSAGE GOES OUT WITH THE CALLSIGN ON THE FRONT. The wire already
+//  carries the address, but what a pilot reads is the text - a bare "START UP
+//  APPROVED" on a flight deck with three messages open is one they have to
+//  match up themselves. So write the sentence, not the callsign - NO line
+//  below writes {CALLSIGN} out, not even the clearance. Write it anyway and it
+//  is left alone rather than said twice, but the token is for the middle of a
+//  sentence, not the front of one.
+//
+//    START UP  ; START UP APPROVED ; TELEX DEP ;  ->  EZY88DK START UP APPROVED
+//
+//  TOKENS    filled from the strip, and dropped when the board does not know
+//            them - along with the word in front, so a phrase never goes out
+//            with braces on the wire. Not case-sensitive, and a plural is the
+//            same token: {WIND}, {wind} and {winds} all put the wind in.
+//
+//    {CALLSIGN}           the callsign          {TYPE}    aircraft type
+//    {DEP_AIRPORT}        where it came from
+//    {ARR_AIRPORT}        where it is going
+//    {AIRPORT}            the aerodrome you are working
+//    {RUNWAY}             the runway in use     {SID}     its SID
+//    {STAR}               its arrival           {FIX}     next fix on the strip
+//    {SQUAWK}             the code assigned     {LEVEL}   the level on the strip
+//    {HEADING}  {SPEED}   as written on the strip
+//    {HANDOFF_CALLSIGN}   who it goes to next, from the .hof order
+//    {HANDOFF_FREQ}       that station's frequency, from who is online
+//    {WIND}  {QNH}  {ATIS}  {TA}  {TL}   off this board's own status bar
+//
+//  NOTES     anything after // or # is ignored. Write why a phrase exists
+//            beside it: the next person to open this file is the one who needs
+//            that sentence.
+// ─────────────────────────────────────────────────────────────────────────────
+
+// ── DCL ──────────────────────────────────────────────────────────────────────
+// Listed aerodromes only, by whoever is doing the clearance delivery job.
+PDC         ; PDC - CLEARED TO {ARR_AIRPORT} VIA {SID} DEPARTURE SQUAWK {SQUAWK} ; DCL ;
+
+// ── AIRBORNE ─────────────────────────────────────────────────────────────────
+// En-route instructions. The division's CPDLC units only, above the level it
+// set; everyone below that works these by voice.
+CLIMB       ; CLIMB TO {LEVEL}                                  ; CPDLC ;
+DESCEND     ; DESCEND TO {LEVEL}                                ; CPDLC ;
+MAINTAIN    ; MAINTAIN {LEVEL}                                  ; CPDLC ;
+REP LEVEL   ; REPORT MAINTAINING {LEVEL}                        ; CPDLC ;
+HEADING     ; FLY HEADING {HEADING} DEGREES                     ; CPDLC ;
+SPEED       ; SPEED {SPEED} KNOTS                               ; CPDLC ;
+DIRECT      ; PROCCED DIRECT TO {FIX}                           ; CPDLC ;
+SQUAWK      ; SQUAWK {SQUAWK}                                   ; CPDLC ;
+QNH         ; QNH {QNH}                                         ; CPDLC ;
+TL          ; TRANSITION LEVEL {TL}                             ; CPDLC ;
+
+// ── COMMS ────────────────────────────────────────────────────────────────────
+// Plain messages. Anybody may send one, and none of them replaces a call.
+CONTACT     ; CONTACT {HANDOFF_CALLSIGN} {HANDOFF_FREQ}         ; TELEX ;
+MONITOR     ; MONITOR {HANDOFF_CALLSIGN} {HANDOFF_FREQ}         ; TELEX ;
+UNICOM      ; MONITOR UNICOM 122.800                            ; TELEX ;
+ATIS        ; ATIS INFORMATION {ATIS}                           ; TELEX ;
+STANDBY     ; STANDBY                                           ; TELEX ;
+ROGER       ; ROGER                                             ; TELEX ;
+UNABLE      ; UNABLE                                            ; TELEX ;
+AFFIRM      ; AFFIRM                                            ; TELEX ;
+NEGATIVE    ; NEGATIVE                                          ; TELEX ;
+SAY AGAIN   ; SAY AGAIN                                         ; TELEX ;
