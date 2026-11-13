@@ -88,26 +88,44 @@ PDC         ; PDC - CLEARED TO {ARR_AIRPORT} VIA {SID} DEPARTURE SQUAWK {SQUAWK}
 // ── AIRBORNE ─────────────────────────────────────────────────────────────────
 // En-route instructions. The division's CPDLC units only, above the level it
 // set; everyone below that works these by voice.
-CLIMB       ; CLIMB TO {LEVEL}                                  ; CPDLC ;
-DESCEND     ; DESCEND TO {LEVEL}                                ; CPDLC ;
-MAINTAIN    ; MAINTAIN {LEVEL}                                  ; CPDLC ;
-REP LEVEL   ; REPORT MAINTAINING {LEVEL}                        ; CPDLC ;
-HEADING     ; FLY HEADING {HEADING} DEGREES                     ; CPDLC ;
-SPEED       ; SPEED {SPEED} KNOTS                               ; CPDLC ;
-DIRECT      ; PROCCED DIRECT TO {FIX}                           ; CPDLC ;
-SQUAWK      ; SQUAWK {SQUAWK}                                   ; CPDLC ;
-QNH         ; QNH {QNH}                                         ; CPDLC ;
-TL          ; TRANSITION LEVEL {TL}                             ; CPDLC ;
-
-// ── COMMS ────────────────────────────────────────────────────────────────────
-// Plain messages. Anybody may send one, and none of them replaces a call.
-CONTACT     ; CONTACT {HANDOFF_CALLSIGN} {HANDOFF_FREQ}         ; TELEX ;
-MONITOR     ; MONITOR {HANDOFF_CALLSIGN} {HANDOFF_FREQ}         ; TELEX ;
-UNICOM      ; MONITOR UNICOM 122.800                            ; TELEX ;
-ATIS        ; ATIS INFORMATION {ATIS}                           ; TELEX ;
-STANDBY     ; STANDBY                                           ; TELEX ;
-ROGER       ; ROGER                                             ; TELEX ;
-UNABLE      ; UNABLE                                            ; TELEX ;
-AFFIRM      ; AFFIRM                                            ; TELEX ;
-NEGATIVE    ; NEGATIVE                                          ; TELEX ;
-SAY AGAIN   ; SAY AGAIN                                         ; TELEX ;
+CONTACT        ; CONTACT {HANDOFF_CALLSIGN} {HANDOFF_FREQ}         ; CPDLC ;
+UNICOM         ; MONITOR {HANDOFF_CALLSIGN} {HANDOFF_FREQ}         ; CPDLC ;
+NO FPL         ; FLIGHT PLAN NOT HELD                              ; CPDLC ;
+EXPECT         ; EXPECT {LEVEL}                                    ; CPDLC ;
+REP LEVEL      ; REPORT PRESENT LEVEL                              ; CPDLC ;
+CLIMB          ; CLIMB TO {LEVEL}                                  ; CPDLC ;
+EX CLIMB       ; EXPEDITE CLIMB TO {LEVEL}                         ; CPDLC ;
+WHEN READY     ; WHEN READY                                        ; CPDLC ;
+DESCEND        ; DESCEND TO {LEVEL}                                ; CPDLC ;
+EX DESCENT     ; EXPEDITE DESCENT TO {LEVEL}                       ; CPDLC ;
+LVL MAINT      ; MAINTAIN {LEVEL}                                  ; CPDLC ;
+LEVEL BY       ; LEVEL BY {FIX}                                    ; CPDLC ;
+REP LEVEL      ; REPORT MAINTAINING {LEVEL}                        ; CPDLC ;
+HDG            ; FLY HEADING {HEADING} DEGREES                     ; CPDLC ;
+CONT HDG       ; CONTINUE PRESENT HEADING                          ; CPDLC ;
+HOLD           ; HOLD AT {FIX} MAINTAIN {LEVEL}                    ; CPDLC ;
+DELAY Z        ; DELAY NOT DETERMINDED                             ; CPDLC ;
+REP CLEAR WX   ; REPORT CLEAR OF WEATHER                           ; CPDLC ;
+RON FIX        ; RESUME OWN NAVIGATION {FIX}                       ; CPDLC ;
+RON            ; RESUME OWN NAVIGATION                             ; CPDLC ;
+LVL DIRECT     ; AT {LEVEL} PROCCED DIRECT TO {FIX}                ; CPDLC ;
+DIRECT         ; PROCCED DIRECT TO {FIX}                           ; CPDLC ;
+SPEED          ; SPEED {SPEED} KNOTS                               ; CPDLC ;
+SPD MAINT      ; MAINTAIN {SPEED}                                  ; CPDLC ;
+SPD MORE       ; MAINTAIN {SPEED} OR GREATER                       ; CDPLC ;
+SPD LESS       ; MAINTAIN {SPEED} OR LESS                          ; CPDLC ;
+NO SPEED       ; NO SPEED RESTRICTION                              ; CPDLC ;
+SQUAWK         ; SQUAWK {SQUAWK}                                   ; CPDLC ;
+SQUAWK IDT     ; SQUAWK IDENT                                      ; CPDLC ;
+SQUAWK C       ; SQUAWK ALTITUDE                                   ; CPDLC ;
+QNH            ; QNH {QNH}                                         ; CPDLC ;
+TL             ; TRANSITION LEVEL {TL}                             ; CPDLC ;
+UNABLE         ; UNABLE                                            ; CPDLC ;
+REQ DEF        ; REQUEST DEFERRED                                  ; CPDLC ;
+ROGER          ; ROGER                                             ; CPDLC ;
+AFFIRM         ; AFFIRM                                            ; CPDLC ;
+NEGATIVE       ; NEGATIVE                                          ; CPDLC ;
+REQ FOR        ; REQUEST FORWARDED                                 ; CPDLC ;
+REQ AGAIN      ; REQUEST AGAIN WITH NEXT UNIT                      ; CPDLC ;
+LEAVE CAS      ; LEAVE CONTROLLED AIRSPACE                         ; CPDLC ;
+EMERG REP      ; REPORT REMAINING FUEL AND PERSONS ON BOARD        ; CPDLC ;
