@@ -33,6 +33,7 @@ TAXIWAY;#4E4E4E;
 foreignatc;#0C0C0C;
 localatc;#0C0C0C;
 radaratc;#030303;
+atz;#1A1A1A;
 buffer;#120000;
 COAST;#252E39;
 
